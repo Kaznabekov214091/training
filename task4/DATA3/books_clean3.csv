@@ -1,0 +1,763 @@
+id,title,author,genre,publisher,year,author_set,author_set_str,book_id,total_sold
+21778,Call of Duty: World at War,Elmer Parker,Mythopoeia,Orion Books,2003,frozenset({'elmer parker'}),elmer parker,21778,20
+21374,WarioWare: Touched!,Ms. Kami Prosacco,Mythology,St. Martin's Press,1951,frozenset({'ms. kami prosacco'}),ms. kami prosacco,21374,18
+21457,Titanic: Music from the Motion Picture,Zoila Christiansen,Historical fiction,"Farrar, Straus & Giroux",2009,frozenset({'zoila christiansen'}),zoila christiansen,21457,26
+21881,Flashdance: Original Soundtrack from the Motion Picture,"Joseph Raynor, Ja Ankunding II",Metafiction,Pen and Sword Books,2024,"frozenset({'ja ankunding ii', 'joseph raynor'})","ja ankunding ii,joseph raynor",21881,11
+21446,Riot!,Louanne Cruickshank,Mystery,Bellevue Literary Press,1987,frozenset({'louanne cruickshank'}),louanne cruickshank,21446,11
+22052,Cidade de Deus,Johnny Russel,Reference book,Gay Men's Press,1979,frozenset({'johnny russel'}),johnny russel,22052,25
+21952,The Yellow Meads of Asphodel,Teresia Fisher,Mystery,Black Library,2000,frozenset({'teresia fisher'}),teresia fisher,21952,21
+21583,Citizen Kane,"Sen. Jackson Gutmann, Shelby Willms IV",Suspense/Thriller,University of Chicago Press,1884,"frozenset({'shelby willms iv', 'sen. jackson gutmann'})","sen. jackson gutmann,shelby willms iv",21583,29
+21936,Quo Vadis,Sue Stark,Fairy tale,Gefen Publishing House,2019,frozenset({'sue stark'}),sue stark,21936,26
+21969,Left 4 Dead,Msgr. Marjorie Koepp,Horror,Medknow Publications,2013,frozenset({'msgr. marjorie koepp'}),msgr. marjorie koepp,21969,25
+21605,The Usual Suspects,"Dianne Jakubowski, Cheree Welch",Mystery,Fairview Press,1999,"frozenset({'dianne jakubowski', 'cheree welch'})","cheree welch,dianne jakubowski",21605,18
+21975,PokÃ©mon Omega Ruby,Kirsten Schaefer,Fantasy,Hay House,1994,frozenset({'kirsten schaefer'}),kirsten schaefer,21975,14
+21513,Counter-Strike: Source,Tegan Runolfsdottir,Speech,George Routledge & Sons,2001,frozenset({'tegan runolfsdottir'}),tegan runolfsdottir,21513,13
+21570,Star Wars: Episode VIII â€“ The Last Jedi,Refugio Zboncak PhD,Narrative nonfiction,Tate Publishing & Enterprises,1913,frozenset({'refugio zboncak phd'}),refugio zboncak phd,21570,18
+21632,Surprised by Joy,Rico Zemlak,Tall tale,Zed Books,1997,frozenset({'rico zemlak'}),rico zemlak,21632,8
+21359,Mary and Max,"Deborah Grant, Roman Osinski Sr., Shanti Hand",Essay,Harper & Row,1911,"frozenset({'roman osinski sr.', 'deborah grant', 'shanti hand'})","deborah grant,roman osinski sr.,shanti hand",21359,15
+21788,The Deer Hunter,Richie Gislason,Fiction in verse,Academic Press,2019,frozenset({'richie gislason'}),richie gislason,21788,15
+22004,Gladiator,Kristeen Kessler CPA,Fanfiction,Macmillan Publishers,2010,frozenset({'kristeen kessler cpa'}),kristeen kessler cpa,22004,28
+21460,Some Buried Caesar,"Adell Considine, Leana Feil, Sen. Vonnie Jerde",Realistic fiction,,2010,"frozenset({'sen. vonnie jerde', 'leana feil', 'adell considine'})","adell considine,leana feil,sen. vonnie jerde",21460,19
+22034,Carrion Comfort,Chara Morissette,Classic,Edupedia Publications,2014,frozenset({'chara morissette'}),chara morissette,22034,24
+21640,Perfect Dark,Adelia Lind,Tall tale,Penguin Books,2016,frozenset({'adelia lind'}),adelia lind,21640,21
+21763,Inglourious Basterds,Kylee Smith,Legend,Gaspereau Press,1985,frozenset({'kylee smith'}),kylee smith,21763,37
+21783,Fair Stood the Wind for France,Raul Hoppe,Reference book,Target Books,2024,frozenset({'raul hoppe'}),raul hoppe,21783,23
+21734,The Way Through the Woods,Felicita White DO,Fanfiction,HarperCollins,1979,frozenset({'felicita white do'}),felicita white do,21734,27
+21996,Gone with the Wind,Sen. Jackson Gutmann,Classic,Vintage Books,1995,frozenset({'sen. jackson gutmann'}),sen. jackson gutmann,21996,17
+21411,Grim Fandango,Amb. Nannie Labadie,Short story,Heyday Books,2010,frozenset({'amb. nannie labadie'}),amb. nannie labadie,21411,22
+22055,Beyond the Mexique Bay,"Reginia Weissnat, Miss Wade Lebsack",Classic,Ballantine Books,1984,"frozenset({'miss wade lebsack', 'reginia weissnat'})","miss wade lebsack,reginia weissnat",22055,29
+21551,Snatch,Rep. Vern Turcotte,Classic,Shambhala Publications,2026,frozenset({'rep. vern turcotte'}),rep. vern turcotte,21551,24
+21296,Forrest Gump,Boris Schowalter CPA,Mythology,,2002,frozenset({'boris schowalter cpa'}),boris schowalter cpa,21296,21
+21529,Pale Kings and Princes,Danilo Zieme,Narrative nonfiction,Fearless Books,1900,frozenset({'danilo zieme'}),danilo zieme,21529,14
+21972,Brothers in Arms,Fletcher Upton,Science fiction,New English Library,1998,frozenset({'fletcher upton'}),fletcher upton,21972,14
+21730,PokÃ©mon HeartGold,Dominique Sipes,Metafiction,Athabasca University Press,2013,frozenset({'dominique sipes'}),dominique sipes,21730,15
+21846,Thief II,Haywood Wyman,Tall tale,Del Rey Books,2006,frozenset({'haywood wyman'}),haywood wyman,21846,13
+21608,Inception,"Delois Koss, Sid Oberbrunner, Catrina Roob PhD",Historical fiction,Gefen Publishing House,1997,"frozenset({'delois koss', 'sid oberbrunner', 'catrina roob phd'})","catrina roob phd,delois koss,sid oberbrunner",21608,21
+21595,Network,Zackary Carter,Fairy tale,Koren Publishers Jerusalem,1998,frozenset({'zackary carter'}),zackary carter,21595,40
+21395,His Dark Materials,Msgr. Mohammad Koelpin,Fiction in verse,Bowes & Bowes,1989,frozenset({'msgr. mohammad koelpin'}),msgr. mohammad koelpin,21395,5
+21733,Postern of Fate,"Amb. Amberly Beatty, Alysa Pouros Esq.",Reference book,Gay Men's Press,,"frozenset({'alysa pouros esq.', 'amb. amberly beatty'})","alysa pouros esq.,amb. amberly beatty",21733,14
+21415,The Matrix,Carin Christiansen,Narrative nonfiction,FabJob,1983,frozenset({'carin christiansen'}),carin christiansen,21415,18
+21507,Spotlight,"Enrique Gislason, Sean Harvey III, Glenna Huel",Essay,Addison-Wesley,1984,"frozenset({'glenna huel', 'sean harvey iii', 'enrique gislason'})","enrique gislason,glenna huel,sean harvey iii",21507,20
+21818,PokÃ©mon Black 2,Kasey Effertz,Folklore,Pen and Sword Books,1989,frozenset({'kasey effertz'}),kasey effertz,21818,19
+21441,The Godfather,"Edmundo Oberbrunner, Bernard Bayer, Amb. Elia Lebsack",Essay,George Routledge & Sons,1937,"frozenset({'amb. elia lebsack', 'edmundo oberbrunner', 'bernard bayer'})","amb. elia lebsack,bernard bayer,edmundo oberbrunner",21441,17
+21963,A Catskill Eagle,Anton Toy,Narrative nonfiction,Atlas Press,2017,frozenset({'anton toy'}),anton toy,21963,15
+21726,Touch of Evil,"Selena Schroeder, Roland Murray",Narrative nonfiction,Ballantine Books,1988,"frozenset({'roland murray', 'selena schroeder'})","roland murray,selena schroeder",21726,10
+21899,Blood's a Rover,"Sean Kassulke, Rosann Wolf VM",Crime/Detective,Felony & Mayhem Press,1976,"frozenset({'rosann wolf vm', 'sean kassulke'})","rosann wolf vm,sean kassulke",21899,13
+21398,Dead Poets Society,"Anton Toy, Tabetha Johnston",Fantasy,Dedalus Books,2002,"frozenset({'anton toy', 'tabetha johnston'})","anton toy,tabetha johnston",21398,20
+21302,Stand by Me,Emile Koepp DO,Fiction in verse,Nauka,1992,frozenset({'emile koepp do'}),emile koepp do,21302,21
+21423,"Those Barren Leaves, Thrones, Dominations",Freddie Weissnat,Metafiction,Simon & Schuster,2018,frozenset({'freddie weissnat'}),freddie weissnat,21423,9
+21903,The Far-Distant Oxus,Cruz Abshire MD,Western,UCL Press,1980,frozenset({'cruz abshire md'}),cruz abshire md,21903,9
+21918,Number the Stars,Candis Ledner Sr.,Humor,Manning Publications,1976,frozenset({'candis ledner sr.'}),candis ledner sr.,21918,27
+21485,BrÃ¼tal Legend,Abigail Reynolds,Suspense/Thriller,Felony & Mayhem Press,1980,frozenset({'abigail reynolds'}),abigail reynolds,21485,8
+21617,The Silence of the Lambs,Dr. Pat Kunze,Mythology,Eel Pie Publishing,1979,frozenset({'dr. pat kunze'}),dr. pat kunze,21617,33
+22036,Mario Kart 8 Deluxe,Shanelle Upton,Fantasy,George Newnes,2017,frozenset({'shanelle upton'}),shanelle upton,22036,22
+21974,Far From the Madding Crowd,Matthew Boehm,Realistic fiction,St. Martin's Press,2013,frozenset({'matthew boehm'}),matthew boehm,21974,15
+21868,Spice,"Gov. Boyce Franecki, Odell Treutel",Fable,Black Sparrow Books,1995,"frozenset({'odell treutel', 'gov. boyce franecki'})","gov. boyce franecki,odell treutel",21868,16
+21386,Doom 3: BFG,"Lavon Langosh, Msgr. Juan Beer, Garth Heidenreich",Mystery,Dedalus Books,1972,"frozenset({'garth heidenreich', 'msgr. juan beer', 'lavon langosh'})","garth heidenreich,lavon langosh,msgr. juan beer",21386,18
+21531,Whiplash,Salvatore Mills,Horror,Edupedia Publications,2008,frozenset({'salvatore mills'}),salvatore mills,21531,18
+22049,Hotel California,Farah Rohan II,Realistic fiction,Black Library,1990,frozenset({'farah rohan ii'}),farah rohan ii,22049,19
+21871,Banjo-Kazooie: Grunty's Revenge,Karisa Kozey,Narrative nonfiction,Eerdmans Publishing,1978,frozenset({'karisa kozey'}),karisa kozey,21871,15
+21920,Casino,Marlon Casper,Science fiction,"Harry N. Abrams, Inc.",1993,frozenset({'marlon casper'}),marlon casper,21920,22
+22005,Life is Strange,"Era Hodkiewicz, Miss Bok Barrows, Jeffery Leuschke PhD",Western,Del Rey Books,2021,"frozenset({'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,jeffery leuschke phd,miss bok barrows",22005,22
+21953,The Witcher,Bennett Raynor,Crime/Detective,Pen and Sword Books,2018,frozenset({'bennett raynor'}),bennett raynor,21953,20
+21747,Let Us Now Praise Famous Men,Sook Halvorson,Speech,Macmillan Publishers,1959,frozenset({'sook halvorson'}),sook halvorson,21747,17
+21869,Call of Duty: Black Ops 4,Sanjuana Bernier,Science fiction,United States Government Publishing Office,1991,frozenset({'sanjuana bernier'}),sanjuana bernier,21869,12
+21901,Wildfire at Midnight,Valery Schimmel,Humor,Daedalus Publishing,2007,frozenset({'valery schimmel'}),valery schimmel,21901,18
+21618,PokÃ©mon Sun,Miss Ward Farrell,Horror,Hay House,2002,frozenset({'miss ward farrell'}),miss ward farrell,21618,18
+21827,The Sixth Sense,Mireya Schroeder,Realistic fiction,Reed Elsevier,2002,frozenset({'mireya schroeder'}),mireya schroeder,21827,32
+21723,Rush,Billy Dare,Fairy tale,Anvil Press Poetry,2011,frozenset({'billy dare'}),billy dare,21723,14
+22001,PokÃ©mon Sapphire,Amb. Amberly Beatty,Fanfiction,Golden Cockerel Press,1992,frozenset({'amb. amberly beatty'}),amb. amberly beatty,22001,22
+21495,I Sing the Body Electric,Hoyt Jacobson III,Textbook,Hodder Headline,1996,frozenset({'hoyt jacobson iii'}),hoyt jacobson iii,21495,30
+21780,Clannad,Trevor Turner,Fiction in verse,Mascot Books,2023,frozenset({'trevor turner'}),trevor turner,21780,9
+21921,The Wizard of Oz,Rocky Erdman,Comic/Graphic Novel,Athabasca University Press,1984,frozenset({'rocky erdman'}),rocky erdman,21921,14
+21648,Call of Duty: Modern Warfare 3,"Alphonso Gulgowski, Josette Nikolaus DC, Mercedez Welch",Tall tale,George Routledge & Sons,1843,"frozenset({'alphonso gulgowski', 'mercedez welch', 'josette nikolaus dc'})","alphonso gulgowski,josette nikolaus dc,mercedez welch",21648,15
+21771,Devil May Cry,Bob Treutel DDS,Fiction in verse,Cengage Learning,2024,frozenset({'bob treutel dds'}),bob treutel dds,21771,15
+21707,The Departed,Antonio Lindgren,Speech,Vintage Books,2005,frozenset({'antonio lindgren'}),antonio lindgren,21707,11
+21684,Mario Kart 7,"Benedict Steuber, Randal McCullough, Jon Hettinger DVM",Speech,Ellora's Cave,2000,"frozenset({'randal mccullough', 'benedict steuber', 'jon hettinger dvm'})","benedict steuber,jon hettinger dvm,randal mccullough",21684,24
+21469,Wii Play,"Travis Von, Leighann O'Connell",Fable,Haynes Manuals,1943,"frozenset({'travis von', ""leighann o'connell""})","leighann o'connell,travis von",21469,11
+21655,Come Away with Me,"Roman Koss, Sook Halvorson",Crime/Detective,Pan Books,2013,"frozenset({'sook halvorson', 'roman koss'})","roman koss,sook halvorson",21655,23
+21902,Backstreet's Back,Kizzie Purdy,Legend,Book League of America,1997,frozenset({'kizzie purdy'}),kizzie purdy,21902,21
+21383,The Lord of the Rings: The Fellowship of the Ring,"Fredda Brekke, Vernice Emard, Dylan Upton",Metafiction,Atlantic Books,2022,"frozenset({'fredda brekke', 'dylan upton', 'vernice emard'})","dylan upton,fredda brekke,vernice emard",21383,33
+21699,Star Wars: Episode IX â€“ The Rise of Skywalker,"Roman Koss, Sook Halvorson",Comic/Graphic Novel,Ten Speed Press,2014,"frozenset({'sook halvorson', 'roman koss'})","roman koss,sook halvorson",21699,14
+21298,Princess Mononoke,Rosann Wolf VM,Comic/Graphic Novel,Hachette Book Group USA,1996,frozenset({'rosann wolf vm'}),rosann wolf vm,21298,20
+21773,Shutter Island,Kathey Gorczany,Fable,Bloodaxe Books,1837,frozenset({'kathey gorczany'}),kathey gorczany,21773,15
+21914,Mass Effect 2,Prof. Augustus Konopelski,Legend,E. P. Dutton,1945,frozenset({'prof. augustus konopelski'}),prof. augustus konopelski,21914,6
+21656,To Say Nothing of the Dog,Veronique Carter,Reference book,Hamish Hamilton,1996,frozenset({'veronique carter'}),veronique carter,21656,18
+21767,12 Angry Men,"Coy Streich, Lela Emard, Keeley Hand",Realistic fiction,,2021,"frozenset({'keeley hand', 'lela emard', 'coy streich'})","coy streich,keeley hand,lela emard",21767,12
+21326,Halo: Combat Evolved,Joana Botsford,Speech,Nonesuch Press,2022,frozenset({'joana botsford'}),joana botsford,21326,20
+21859,Legend: The Best of Bob Marley & The Wailers,Alec Ziemann,Essay,,2023,frozenset({'alec ziemann'}),alec ziemann,21859,12
+21407,The Torment of Others,Reid Rice,Mythopoeia,Airiti Press,1914,frozenset({'reid rice'}),reid rice,21407,23
+21721,Beyond the Mexique Bay,"Reginia Weissnat, Miss Wade Lebsack",Classic,Gefen Publishing House,1988,"frozenset({'miss wade lebsack', 'reginia weissnat'})","miss wade lebsack,reginia weissnat",21721,21
+21538,Command & Conquer 3: Tiberium Wars,Pedro Bradtke,Mythology,Cisco Press,1979,frozenset({'pedro bradtke'}),pedro bradtke,21538,15
+21616,Mario Kart: Double Dash,Mr. Dominque Becker,Realistic fiction,Virago Press,2020,frozenset({'mr. dominque becker'}),mr. dominque becker,21616,13
+21904,The Sting,Alina Collier Esq.,Classic,Caister Academic Press,1992,frozenset({'alina collier esq.'}),alina collier esq.,21904,12
+21653,Blue Remembered Earth,"Joseph Raynor, Ja Ankunding II",Legend,Eel Pie Publishing,1986,"frozenset({'ja ankunding ii', 'joseph raynor'})","ja ankunding ii,joseph raynor",21653,16
+21739,Quake,"Renee Rogahn, Merrill Marks",Realistic fiction,Harcourt Trade Publishers,1981,"frozenset({'renee rogahn', 'merrill marks'})","merrill marks,renee rogahn",21739,15
+21677,Vanity Fair,Elane Miller,Reference book,Victor Gollancz Ltd,1993,frozenset({'elane miller'}),elane miller,21677,19
+21530,Led Zeppelin IV,"Rocky Erdman, Curtis Rohan",Realistic fiction,Tartarus Press,1990,"frozenset({'curtis rohan', 'rocky erdman'})","curtis rohan,rocky erdman",21530,23
+21361,Great Work of Time,Laronda Kuhn,Crime/Detective,J. M. Dent,1992,frozenset({'laronda kuhn'}),laronda kuhn,21361,20
+22002,LittleBigPlanet,Johnny Russel,Humor,Library of America,2007,frozenset({'johnny russel'}),johnny russel,22002,9
+21568,Overwatch,Luigi Parker,Crime/Detective,Imperial War Museum,1982,frozenset({'luigi parker'}),luigi parker,21568,20
+21384,The Legend of Zelda,"Sook Halvorson, Roman Koss",Speech,Victor Gollancz Ltd,1995,"frozenset({'sook halvorson', 'roman koss'})","roman koss,sook halvorson",21384,7
+21714,Wolfenstein 3D,Elvina Nader,Biography/Autobiography,University of Michigan Press,1995,frozenset({'elvina nader'}),elvina nader,21714,25
+21580,Mr Standfast,Sen. Leta Berge,Comic/Graphic Novel,Chatto and Windus,2013,frozenset({'sen. leta berge'}),sen. leta berge,21580,23
+22014,Mario Kart 64,Jerald Raynor,Textbook,Indiana University Press,1980,frozenset({'jerald raynor'}),jerald raynor,22014,14
+21692,Just Cause 2,Dr. Deb Kemmer,Realistic fiction,Pen and Sword Books,1916,frozenset({'dr. deb kemmer'}),dr. deb kemmer,21692,21
+21519,Greatest Hits,Reuben Mayert,Classic,Hackett Publishing Company,2015,frozenset({'reuben mayert'}),reuben mayert,21519,12
+21610,Ring of Bright Water,"Timmy Corwin, Franklyn Stokes VM",Legend,Horizon Scientific Press,1996,"frozenset({'franklyn stokes vm', 'timmy corwin'})","franklyn stokes vm,timmy corwin",21610,40
+21471,Call of Duty,Myrtis Corwin,Narrative nonfiction,HarperCollins,2026,frozenset({'myrtis corwin'}),myrtis corwin,21471,28
+22039,21,"Lavon Langosh, Msgr. Juan Beer, Garth Heidenreich",Fairy tale,Elsevier,2021,"frozenset({'garth heidenreich', 'msgr. juan beer', 'lavon langosh'})","garth heidenreich,lavon langosh,msgr. juan beer",22039,15
+21785,Oh! To be in England,Amb. Nannie Labadie,Legend,Indiana University Press,1985,frozenset({'amb. nannie labadie'}),amb. nannie labadie,21785,14
+21564,PokÃ©mon Diamond,Sonny Bogan,Classic,Marion Boyars Publishers,1979,frozenset({'sonny bogan'}),sonny bogan,21564,17
+21877,Half-Life: Opposing Force,"Anton Toy, Tabetha Johnston",Realistic fiction,Ziff Davis Media,1987,"frozenset({'anton toy', 'tabetha johnston'})","anton toy,tabetha johnston",21877,13
+21502,The Shining,Korey Rice V,Reference book,Libertas Academica,1996,frozenset({'korey rice v'}),korey rice v,21502,16
+21347,Blade Runner,Zackary Carter,Suspense/Thriller,Eel Pie Publishing,1987,frozenset({'zackary carter'}),zackary carter,21347,18
+21536,Counter-Strike,Pres. Donya West,Horror,D. Appleton & Company,2004,frozenset({'pres. donya west'}),pres. donya west,21536,14
+21465,Die Hard,Rocky Erdman,Mystery,Allen Ltd,2007,frozenset({'rocky erdman'}),rocky erdman,21465,16
+21343,Halo 5: Guardians,"Coy Streich, Keeley Hand, Lela Emard",Horror,HarperCollins,1997,"frozenset({'keeley hand', 'lela emard', 'coy streich'})","coy streich,keeley hand,lela emard",21343,24
+21861,All About Eve,Andreas Mohr,Textbook,Felony & Mayhem Press,2001,frozenset({'andreas mohr'}),andreas mohr,21861,15
+21659,Fortnite,"Norberto Kohler, Moshe Wilderman",Metafiction,Newnes,1974,"frozenset({'moshe wilderman', 'norberto kohler'})","moshe wilderman,norberto kohler",21659,26
+21824,A Glass of Blessings,Garth Marvin,Horror,Holt McDougal,2022,frozenset({'garth marvin'}),garth marvin,21824,26
+21378,The Wall,Elliot Monahan,Speech,Anvil Press Poetry,2024,frozenset({'elliot monahan'}),elliot monahan,21378,11
+21385,Twelve Monkeys,Earnest Glover,Mythology,Mascot Books,1983,frozenset({'earnest glover'}),earnest glover,21385,26
+22042,25,Benjamin Mills,Fantasy,Marshall Cavendish,1964,frozenset({'benjamin mills'}),benjamin mills,22042,15
+21435,Super Mario World,Jerry Cormier,Legend,Bantam Books,1848,frozenset({'jerry cormier'}),jerry cormier,21435,19
+21545,The Dark Side of the Moon,"Beverly McDermott, Pedro Bradtke",Tall tale,Velazquez Press,1965,"frozenset({'pedro bradtke', 'beverly mcdermott'})","beverly mcdermott,pedro bradtke",21545,17
+21665,Back in Black,"Sen. Amber Roberts, Prof. Augustus Konopelski",Realistic fiction,Etruscan Press,1992,"frozenset({'sen. amber roberts', 'prof. augustus konopelski'})","prof. augustus konopelski,sen. amber roberts",21665,9
+21346,Where Angels Fear to Tread,"Yesenia Raynor DDS, Hue Ondricka I, Lewis Boehm",Fantasy,DAW Books,2024,"frozenset({'hue ondricka i', 'yesenia raynor dds', 'lewis boehm'})","hue ondricka i,lewis boehm,yesenia raynor dds",21346,17
+21858,It's a Battlefield,"Julius Barrows, Tamika Hayes",Legend,Flame Tree Publishing,1982,"frozenset({'julius barrows', 'tamika hayes'})","julius barrows,tamika hayes",21858,13
+21439,The Cricket on the Hearth,Josue Grady,Fiction in verse,ECW Press,2025,frozenset({'josue grady'}),josue grady,21439,8
+21745,Toy Story 3,"Msgr. Juan Beer, Garth Heidenreich, Lavon Langosh",Narrative nonfiction,Harper & Row,1976,"frozenset({'garth heidenreich', 'msgr. juan beer', 'lavon langosh'})","garth heidenreich,lavon langosh,msgr. juan beer",21745,13
+21577,The Wolf of Wall Street,Ozzie Jast,Fable,Ignatius Press,1994,frozenset({'ozzie jast'}),ozzie jast,21577,8
+22057,Consider Phlebas,Matthew Boehm,Folklore,Berkley Books,-1,frozenset({'matthew boehm'}),matthew boehm,22057,28
+21759,Call of Duty: Black Ops II,Benjamin Mills,Tall tale,New Holland Publishers,1993,frozenset({'benjamin mills'}),benjamin mills,21759,14
+21808,The Wings of the Dove,"Antione O'Reilly, Josette Nikolaus DC",Speech,University of Chicago Press,1997,"frozenset({""antione o'reilly"", 'josette nikolaus dc'})","antione o'reilly,josette nikolaus dc",21808,12
+21351,Team Fortress 2,Jermaine Wehner,Legend,Earthscan,1985,frozenset({'jermaine wehner'}),jermaine wehner,21351,19
+21364,Gran Torino,Jeffry Nolan Ret.,Mythology,Bantam Spectra,0,frozenset({'jeffry nolan ret.'}),jeffry nolan ret.,21364,22
+21501,A Summer Bird-Cage,Leighann O'Connell,Humor,Signet Books,1984,"frozenset({""leighann o'connell""})",leighann o'connell,21501,19
+21319,X&Y,Caroyln Wilderman,Historical fiction,Darakwon Press,2012,frozenset({'caroyln wilderman'}),caroyln wilderman,21319,13
+21688,Halo 3: ODST,"Dominque Fisher, Leigh Bednar",Fairy tale,ECW Press,2012,"frozenset({'dominque fisher', 'leigh bednar'})","dominque fisher,leigh bednar",21688,14
+21924,The Wonderful 101,Jerrold Bogan LLD,Horror,Shire Books,2015,frozenset({'jerrold bogan lld'}),jerrold bogan lld,21924,15
+21543,Wii Music,Cleo Predovic,Historical fiction,Kessinger Publishing,1990,frozenset({'cleo predovic'}),cleo predovic,21543,25
+21317,The House of Mirth,"Elmer Parker, Mireya Schroeder",Fable,St. Martin's Press,1990,"frozenset({'mireya schroeder', 'elmer parker'})","elmer parker,mireya schroeder",21317,9
+21643,Fight Club,Latrina Kuphal,Narrative nonfiction,Athabasca University Press,2011,frozenset({'latrina kuphal'}),latrina kuphal,21643,21
+22050,WarioWare: Touched!,Ms. Kami Prosacco,Mythology,Chatto and Windus,1976,frozenset({'ms. kami prosacco'}),ms. kami prosacco,22050,22
+21597,PokÃ©mon FireRed,Timmy Corwin,Comic/Graphic Novel,Victor Gollancz Ltd,2009,frozenset({'timmy corwin'}),timmy corwin,21597,29
+21693,Wolfenstein 2: The New Colossus,Alec Ziemann,Mythopoeia,Viking Press,2022,frozenset({'alec ziemann'}),alec ziemann,21693,18
+21875,The Glory and the Dream,Elvina Nader,Horror,Sams Publishing,2024,frozenset({'elvina nader'}),elvina nader,21875,26
+21728,The Heart Is a Lonely Hunter,"Rep. Bridgett Rosenbaum, Laureen Herzog, Charlsie Cummerata",Horror,Booktrope,2019,"frozenset({'rep. bridgett rosenbaum', 'laureen herzog', 'charlsie cummerata'})","charlsie cummerata,laureen herzog,rep. bridgett rosenbaum",21728,26
+21328,The Millstone,Reuben Mayert,Reference book,Parachute Publishing,2023,frozenset({'reuben mayert'}),reuben mayert,21328,17
+21644,Left 4 Dead 2,Cruz Abshire MD,Mystery,Pantheon Books at Random House,2000,frozenset({'cruz abshire md'}),cruz abshire md,21644,20
+21796,A Time of Gifts,Rico Zemlak,Comic/Graphic Novel,Libertas Academica,1999,frozenset({'rico zemlak'}),rico zemlak,21796,19
+21662,PokÃ©mon Black,Sen. Jackson Gutmann,Short story,HarperTrophy,2023,frozenset({'sen. jackson gutmann'}),sen. jackson gutmann,21662,12
+21998,Tender Is the Night,Miss Wade Lebsack,Comic/Graphic Novel,Pen and Sword Books,1980,frozenset({'miss wade lebsack'}),miss wade lebsack,21998,24
+21481,Oldeuboi,Ted Rutherford,Classic,Eel Pie Publishing,0,frozenset({'ted rutherford'}),ted rutherford,21481,34
+21623,Highway Blossoms,"Marlon Casper, Boyce Hoeger",Horror,Banner of Truth Trust,2024,"frozenset({'boyce hoeger', 'marlon casper'})","boyce hoeger,marlon casper",21623,18
+21795,The Skull Beneath the Skin,Kristeen Kessler CPA,Science fiction,University of Alaska Press,2013,frozenset({'kristeen kessler cpa'}),kristeen kessler cpa,21795,21
+21633,The Godfather: Part II,Miss Wade Lebsack,Suspense/Thriller,Ian Allan Publishing,2008,frozenset({'miss wade lebsack'}),miss wade lebsack,21633,3
+21802,PokÃ©mon Shield,Lonnie Hilpert,Mythology,Chick Publications,2012,frozenset({'lonnie hilpert'}),lonnie hilpert,21802,15
+21744,Bat Out of Hell,"Lawrence Hauck, Sean Kassulke",Realistic fiction,Ellora's Cave,2011,"frozenset({'lawrence hauck', 'sean kassulke'})","lawrence hauck,sean kassulke",21744,18
+21950,L.A. Confidential,Shirlene Toy,Comic/Graphic Novel,Oberon Books,2005,frozenset({'shirlene toy'}),shirlene toy,21950,27
+21369,Django Unchained,"Edmundo Oberbrunner, Bernard Bayer, Amb. Elia Lebsack",Science fiction,Earthscan,1993,"frozenset({'amb. elia lebsack', 'edmundo oberbrunner', 'bernard bayer'})","amb. elia lebsack,bernard bayer,edmundo oberbrunner",21369,24
+21306,That Hideous Strength,Rossana Cruickshank,Textbook,Chambers Harrap,2008,frozenset({'rossana cruickshank'}),rossana cruickshank,21306,19
+21834,Oops!... I Did It Again,"Mercedez Welch, Alphonso Gulgowski",Mystery,Burns & Oates,2014,"frozenset({'mercedez welch', 'alphonso gulgowski'})","alphonso gulgowski,mercedez welch",21834,23
+21700,Star Wars: Episode VII - The Force Awakens,Gonzalo Macejkovic,Crime/Detective,Felony & Mayhem Press,1985,frozenset({'gonzalo macejkovic'}),gonzalo macejkovic,21700,14
+21338,Kingdom Hearts,Reginia Weissnat,Textbook,Carlton Publishing Group,1997,frozenset({'reginia weissnat'}),reginia weissnat,21338,20
+21522,Stranger in a Strange Land,Kasey Effertz,Folklore,Carnegie Mellon University Press,2026,frozenset({'kasey effertz'}),kasey effertz,21522,17
+21375,Command & Conquer: Red Alert 3,Tyson Beer,Science fiction,Victor Gollancz Ltd,,frozenset({'tyson beer'}),tyson beer,21375,15
+21357,3 Idiots,Sen. Amber Roberts,Legend,George Newnes,-1,frozenset({'sen. amber roberts'}),sen. amber roberts,21357,14
+21927,The Intouchables,Curtis Rohan,Short story,Nonesuch Press,1992,frozenset({'curtis rohan'}),curtis rohan,21927,13
+21509,A Scanner Darkly,"Brandi Cole, Veronique Carter",Science fiction,Pantheon Books at Random House,1966,"frozenset({'brandi cole', 'veronique carter'})","brandi cole,veronique carter",21509,26
+21913,PokÃ©mon Gold,Ted Rutherford,Speech,Left Book Club,1978,frozenset({'ted rutherford'}),ted rutherford,21913,15
+21934,Star Wars: Episode IV â€“ A New Hope,Caroyln Wilderman,Narrative nonfiction,Mascot Books,2000,frozenset({'caroyln wilderman'}),caroyln wilderman,21934,30
+21987,Grease: The Original Soundtrack from the Motion Picture,Bob Treutel DDS,Science fiction,Heyday Books,1993,frozenset({'bob treutel dds'}),bob treutel dds,21987,9
+21449,Their Greatest Hits (1971â€“1975),Zoila Christiansen,Historical fiction,Haynes Manuals,1991,frozenset({'zoila christiansen'}),zoila christiansen,21449,21
+21492,What's Become of Waring,Yuette Parker,Biography/Autobiography,Pen and Sword Books,1985,frozenset({'yuette parker'}),yuette parker,21492,22
+21334,Raiders of the Lost Ark,Hoyt Jacobson III,Metafiction,Newnes,2004,frozenset({'hoyt jacobson iii'}),hoyt jacobson iii,21334,8
+21882,Super Mario Bros. 2,Irmgard Bogan I,Comic/Graphic Novel,Eel Pie Publishing,1976,frozenset({'irmgard bogan i'}),irmgard bogan i,21882,22
+22010,In Dubious Battle,"Franklyn Stokes VM, Timmy Corwin",Fantasy,Brimstone Press,,"frozenset({'franklyn stokes vm', 'timmy corwin'})","franklyn stokes vm,timmy corwin",22010,6
+21486,Far Cry,Nick Ziemann,Legend,Zondervan,1986,frozenset({'nick ziemann'}),nick ziemann,21486,28
+21761,PokÃ©mon: Let's Go Pikachu!,Selena Schroeder,Essay,G. P. Putnam's Sons,2005,frozenset({'selena schroeder'}),selena schroeder,21761,19
+21760,Super Smash Bros. Melee,"Edmundo Oberbrunner, Jerry Cormier, Bernard Bayer, Amb. Elia Lebsack",Fiction narrative,Carcanet Press,1990,"frozenset({'jerry cormier', 'amb. elia lebsack', 'edmundo oberbrunner', 'bernard bayer'})","amb. elia lebsack,bernard bayer,edmundo oberbrunner,jerry cormier",21760,13
+21774,"The World, the Flesh and the Devil","Jeffery Leuschke PhD, Miss Bok Barrows, Era Hodkiewicz",Fantasy,Applewood Books,1982,"frozenset({'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,jeffery leuschke phd,miss bok barrows",21774,20
+21833,Kid Icarus,Pedro Bradtke,Fantasy,Schocken Books,2022,frozenset({'pedro bradtke'}),pedro bradtke,21833,27
+21948,Endless Night,Karisa Kozey,Mythology,University of Minnesota Press,1957,frozenset({'karisa kozey'}),karisa kozey,21948,19
+21300,Wolfenstein: The Old Blood,"Kirk Treutel, Klara Runolfsdottir Sr., Lonnie Hilpert",Realistic fiction,Emerald Group Publishing,1976,"frozenset({'lonnie hilpert', 'klara runolfsdottir sr.', 'kirk treutel'})","kirk treutel,klara runolfsdottir sr.,lonnie hilpert",21300,35
+21297,The Treasure of the Sierra Madre,Brandi Cole,Short story,G-Unit Books,1856,frozenset({'brandi cole'}),brandi cole,21297,15
+21484,Mirror's Edge,"Antione O'Reilly, Josette Nikolaus DC",Humor,Pavilion Books,1983,"frozenset({""antione o'reilly"", 'josette nikolaus dc'})","antione o'reilly,josette nikolaus dc",21484,15
+21938,Half-Life 2: Episode Two,Richie Gislason,Essay,Ladybird Books,1875,frozenset({'richie gislason'}),richie gislason,21938,24
+21476,Super Smash Bros. Brawl,Nick Ziemann,Essay,BBC Books,2003,frozenset({'nick ziemann'}),nick ziemann,21476,10
+21613,The Pianist,Manuel Murray,Horror,Academic Press,1989,frozenset({'manuel murray'}),manuel murray,21613,5
+21995,Paper Moon,"Sean Kassulke, Rosann Wolf VM",Short story,Charles Scribner's Sons,1991,"frozenset({'rosann wolf vm', 'sean kassulke'})","rosann wolf vm,sean kassulke",21995,33
+21951,Batman: Arkham City,Alina Collier Esq.,Fable,Black Dog Publishing,1994,frozenset({'alina collier esq.'}),alina collier esq.,21951,26
+21956,Portal 2,Kylee Smith,Fanfiction,Addison-Wesley,2005,frozenset({'kylee smith'}),kylee smith,21956,27
+21843,This Side of Paradise,Richie Gislason,Fairy tale,Koren Publishers Jerusalem,1989,frozenset({'richie gislason'}),richie gislason,21843,17
+21779,Sonic Unleashed,Ms. Kami Prosacco,Humor,Martinus Nijhoff Publishers,2009,frozenset({'ms. kami prosacco'}),ms. kami prosacco,21779,22
+21866,No Highway,Susannah Tremblay DC,Crime/Detective,Tammi,1845,frozenset({'susannah tremblay dc'}),susannah tremblay dc,21866,12
+21694,The Best Years of Our Lives,"Raymundo Aufderhar, Lamar Kautzer, Isabelle Boehm",Horror,David & Charles,2009,"frozenset({'lamar kautzer', 'isabelle boehm', 'raymundo aufderhar'})","isabelle boehm,lamar kautzer,raymundo aufderhar",21694,26
+21840,Gandhi,Carin Christiansen,Narrative nonfiction,NavPress,1976,frozenset({'carin christiansen'}),carin christiansen,21840,16
+21980,Come On Over,Robby Powlowski,Fairy tale,Koren Publishers Jerusalem,1994,frozenset({'robby powlowski'}),robby powlowski,21980,18
+21458,The Mirror Crack'd from Side to Side,Tabetha Johnston,Realistic fiction,Mapin Publishing,1995,frozenset({'tabetha johnston'}),tabetha johnston,21458,9
+21986,Pac-Man,Clyde Jacobson,Fiction in verse,Godwit Press,,frozenset({'clyde jacobson'}),clyde jacobson,21986,27
+21537,Mario Kart Wii,Sen. Leta Berge,Reference book,Darakwon Press,1843,frozenset({'sen. leta berge'}),sen. leta berge,21537,17
+21852,Butter In a Lordly Dish,Nick Ziemann,Fanfiction,University of Alaska Press,2006,frozenset({'nick ziemann'}),nick ziemann,21852,17
+21830,WarioWare: Touched!,Ms. Kami Prosacco,Mythology,Gefen Publishing House,1972,frozenset({'ms. kami prosacco'}),ms. kami prosacco,21830,12
+21805,Shall not Perish,Ted Rutherford,Fable,,1987,frozenset({'ted rutherford'}),ted rutherford,21805,17
+21806,Metropolis,Susannah Tremblay DC,Essay,Random House,2019,frozenset({'susannah tremblay dc'}),susannah tremblay dc,21806,9
+21968,The Last Enemy,Mohamed Dach,Horror,Pecan Grove Press,2019,frozenset({'mohamed dach'}),mohamed dach,21968,16
+21912,Moab Is My Washpot,Matthew Boehm,Mythopoeia,Focal Press,2023,frozenset({'matthew boehm'}),matthew boehm,21912,19
+21696,Cool Hand Luke,Msgr. Mohammad Koelpin,Comic/Graphic Novel,Edupedia Publications,2002,frozenset({'msgr. mohammad koelpin'}),msgr. mohammad koelpin,21696,26
+21775,Diablo II,"Dennis Heaney, Soledad Hickle, Alina Collier Esq.",Realistic fiction,Penguin Books,2009,"frozenset({'soledad hickle', 'alina collier esq.', 'dennis heaney'})","alina collier esq.,dennis heaney,soledad hickle",21775,34
+21606,Waiting for the Barbarians,Gov. Wally Wintheiser,Biography/Autobiography,University of Michigan Press,1980,frozenset({'gov. wally wintheiser'}),gov. wally wintheiser,21606,15
+21559,Mario Kart DS,"Curtis Rohan, Rocky Erdman",Legend,George H. Doran Company,1882,"frozenset({'curtis rohan', 'rocky erdman'})","curtis rohan,rocky erdman",21559,17
+21753,The Needle's Eye,"Sen. Amber Roberts, Prof. Augustus Konopelski",Classic,Mainstream Publishing,1979,"frozenset({'sen. amber roberts', 'prof. augustus konopelski'})","prof. augustus konopelski,sen. amber roberts",21753,16
+21683,Bad,Lesli Bernier III,Textbook,BBC Books,1959,frozenset({'lesli bernier iii'}),lesli bernier iii,21683,10
+21534,Bastion,Barb Lynch,Comic/Graphic Novel,Bella Books,2002,frozenset({'barb lynch'}),barb lynch,21534,20
+21675,The Bourne Ultimatum,Jaleesa Breitenberg DVM,Mythology,Naiad Press,2016,frozenset({'jaleesa breitenberg dvm'}),jaleesa breitenberg dvm,21675,24
+21883,In a Glass Darkly,Rico Zemlak,Reference book,Black Sparrow Books,2009,frozenset({'rico zemlak'}),rico zemlak,21883,18
+21977,Things Fall Apart,Kirsten Schaefer,Horror,Happy House,1998,frozenset({'kirsten schaefer'}),kirsten schaefer,21977,30
+21890,Call of Duty: Modern Warfare 2,Boyce Hoeger,Essay,Belknap Press,1992,frozenset({'boyce hoeger'}),boyce hoeger,21890,15
+21967,Max Payne 3,Elenor Langosh,Fiction in verse,Airiti Press,1984,frozenset({'elenor langosh'}),elenor langosh,21967,14
+22038,Precious Bane,Karisa Kozey,Metafiction,University of Alaska Press,1988,frozenset({'karisa kozey'}),karisa kozey,22038,13
+21646,TRON,Caroyln Wilderman,Speech,University of Chicago Press,1840,frozenset({'caroyln wilderman'}),caroyln wilderman,21646,29
+22026,Jesting Pilate,"Mohamed Dach, Clyde Jacobson",Short story,New Holland Publishers,1970,"frozenset({'clyde jacobson', 'mohamed dach'})","clyde jacobson,mohamed dach",22026,34
+22019,The Legend of Zelda: Twilight Princess,Beverly McDermott,Legend,Manning Publications,1970,frozenset({'beverly mcdermott'}),beverly mcdermott,22019,4
+21589,Recovery,Miss Ward Farrell,Classic,Atlas Press,2022,frozenset({'miss ward farrell'}),miss ward farrell,21589,18
+21997,Nectar in a Sieve,Jerrold Bogan LLD,Suspense/Thriller,Casemate Publishers,2024,frozenset({'jerrold bogan lld'}),jerrold bogan lld,21997,23
+21988,The Great Dictator,Rosalva Beer,Classic,Naiad Press,2014,frozenset({'rosalva beer'}),rosalva beer,21988,9
+21416,Faith,Elenor Langosh,Comic/Graphic Novel,,2023,frozenset({'elenor langosh'}),elenor langosh,21416,5
+21575,Command & Conquer: Generals,"Louanne Cruickshank, Lakenya Boyer IV",Essay,Del Rey Books,1975,"frozenset({'lakenya boyer iv', 'louanne cruickshank'})","lakenya boyer iv,louanne cruickshank",21575,20
+21850,Mr. Smith Goes to Washington,Verna Skiles,Fantasy,Tachyon Publications,1989,frozenset({'verna skiles'}),verna skiles,21850,25
+21732,No Country for Old Men,"Blair Casper, Ms. Rodger Hoppe",Realistic fiction,Mandrake Press,2012,"frozenset({'ms. rodger hoppe', 'blair casper'})","blair casper,ms. rodger hoppe",21732,21
+22035,Beneath the Bleeding,"Norberto Kohler, Moshe Wilderman, Dr. Emmaline Ritchie",Fanfiction,United States Government Publishing Office,-,"frozenset({'moshe wilderman', 'norberto kohler', 'dr. emmaline ritchie'})","dr. emmaline ritchie,moshe wilderman,norberto kohler",22035,15
+21658,Half-Life 2: Episode One,The Hon. Terence Klocko,Reference book,Brill Publishers,2019,frozenset({'the hon. terence klocko'}),the hon. terence klocko,21658,21
+21660,Jacob Have I Loved,Ozzie Jast,Tall tale,Charles Scribner's Sons,1986,frozenset({'ozzie jast'}),ozzie jast,21660,21
+21695,Alien,Msgr. Marjorie Koepp,Biography/Autobiography,Kessinger Publishing,1874,frozenset({'msgr. marjorie koepp'}),msgr. marjorie koepp,21695,31
+21906,Clouds of Witness,"Lonnie Hilpert, Klara Runolfsdottir Sr., Kirk Treutel",Fiction narrative,Firebrand Books,2012,"frozenset({'lonnie hilpert', 'klara runolfsdottir sr.', 'kirk treutel'})","kirk treutel,klara runolfsdottir sr.,lonnie hilpert",21906,24
+21337,Left 4 Dead 2,Cruz Abshire MD,Mystery,Daedalus Publishing,1984,frozenset({'cruz abshire md'}),cruz abshire md,21337,14
+21709,The Painted Veil,Barb Lynch,Short story,T & T Clark,1832,frozenset({'barb lynch'}),barb lynch,21709,12
+21973,Wii Sports Resort,Quintin O'Kon,Realistic fiction,Reed Elsevier,2012,"frozenset({""quintin o'kon""})",quintin o'kon,21973,14
+21390,Dishonored,Miss Jesus Pfannerstill,Short story,Cisco Press,1998,frozenset({'miss jesus pfannerstill'}),miss jesus pfannerstill,21390,11
+21542,God of War,Zackary Carter,Science fiction,Shambhala Publications,1996,frozenset({'zackary carter'}),zackary carter,21542,26
+21381,Frozen,Dr. Pat Kunze,Western,Butterworth-Heinemann,1977,frozenset({'dr. pat kunze'}),dr. pat kunze,21381,16
+21651,The Legend of Zelda: Ocarina of Time,"Adelia Lind, Floyd Cassin III",Fanfiction,Seagull Books,1985,"frozenset({'adelia lind', 'floyd cassin iii'})","adelia lind,floyd cassin iii",21651,10
+21864,Starcraft II,"Miss Wade Lebsack, Reginia Weissnat",Mystery,SAGE Publications,1995,"frozenset({'miss wade lebsack', 'reginia weissnat'})","miss wade lebsack,reginia weissnat",21864,17
+21621,Noli Me Tangere,Dominique Sipes,Crime/Detective,University of Alaska Press,1978,frozenset({'dominique sipes'}),dominique sipes,21621,20
+21915,Batman: Arkham City,Alina Collier Esq.,Fable,Carlton Books,1979,frozenset({'alina collier esq.'}),alina collier esq.,21915,19
+21776,Halo 5: Guardians,"Coy Streich, Keeley Hand, Lela Emard",Horror,Ladybird Books,1988,"frozenset({'keeley hand', 'lela emard', 'coy streich'})","coy streich,keeley hand,lela emard",21776,19
+21624,Edna O'Brien,"Mireya Schroeder, Elmer Parker",Historical fiction,UCL Press,1998,"frozenset({'elmer parker', 'mireya schroeder'})","elmer parker,mireya schroeder",21624,10
+21964,Hitman: Absolution,"Zackary Carter, Nick Ziemann",Fable,J. M. Dent,2000,"frozenset({'nick ziemann', 'zackary carter'})","nick ziemann,zackary carter",21964,20
+21565,"Monsters, Inc.","Msgr. Juan Beer, Garth Heidenreich, Lavon Langosh",Crime/Detective,HarperCollins,1996,"frozenset({'garth heidenreich', 'msgr. juan beer', 'lavon langosh'})","garth heidenreich,lavon langosh,msgr. juan beer",21565,9
+21442,Doom,Les Rogahn,Suspense/Thriller,Legend Books,2004,frozenset({'les rogahn'}),les rogahn,21442,15
+21372,Call of Duty: Black Ops III,Anton Moen,Mythopoeia,Candlewick Press,1977,frozenset({'anton moen'}),anton moen,21372,18
+21349,Hearthstone,"Dr. Emmaline Ritchie, Norberto Kohler, Moshe Wilderman",Historical fiction,Carnegie Mellon University Press,1842,"frozenset({'moshe wilderman', 'norberto kohler', 'dr. emmaline ritchie'})","dr. emmaline ritchie,moshe wilderman,norberto kohler",21349,14
+21586,Sleeping Dogs,"Zoila Christiansen, Kylee Smith",Mythopoeia,Sams Publishing,0,"frozenset({'kylee smith', 'zoila christiansen'})","kylee smith,zoila christiansen",21586,8
+21772,Wolfenstein 3D,Elvina Nader,Biography/Autobiography,Harcourt Assessment,1983,frozenset({'elvina nader'}),elvina nader,21772,11
+21720,Tracy Chapman,Miss Jesus Pfannerstill,Fable,Ian Allan Publishing,2017,frozenset({'miss jesus pfannerstill'}),miss jesus pfannerstill,21720,23
+21822,Command & Conquer 4: Tiberian Twilight,Jaleesa Breitenberg DVM,Folklore,City Lights Publishers,1998,frozenset({'jaleesa breitenberg dvm'}),jaleesa breitenberg dvm,21822,15
+21800,The Sign,Benjamin Mills,Comic/Graphic Novel,HMSO,1898,frozenset({'benjamin mills'}),benjamin mills,21800,10
+21512,Ego Dominus Tuus,Kirsten Schaefer,Mythopoeia,Focal Press,1987,frozenset({'kirsten schaefer'}),kirsten schaefer,21512,21
+21418,Apocalypse Now,"Pedro Bradtke, Beverly McDermott",Fantasy,Broadview Press,2012,"frozenset({'beverly mcdermott', 'pedro bradtke'})","beverly mcdermott,pedro bradtke",21418,17
+21667,Super Mario Bros. 3,"Mohamed Dach, Clyde Jacobson",Legend,Basic Books,2024,"frozenset({'clyde jacobson', 'mohamed dach'})","clyde jacobson,mohamed dach",21667,18
+21925,Kirby's Dream Land,Carolyn Yost,Fiction narrative,Kodansha,1993,frozenset({'carolyn yost'}),carolyn yost,21925,20
+21585,In Death Ground,Garth Marvin,Fantasy,HMSO,1992,frozenset({'garth marvin'}),garth marvin,21585,9
+22028,Max Payne 2: The Fall of Max Payne,Travis Von,Fable,Penguin Books,1996,frozenset({'travis von'}),travis von,22028,18
+21820,God of War,Zackary Carter,Science fiction,Del Rey Books,2003,frozenset({'zackary carter'}),zackary carter,21820,17
+21872,PokÃ©mon White,"Kirk Treutel, Klara Runolfsdottir Sr.",Tall tale,New Directions Publishing,2023,"frozenset({'klara runolfsdottir sr.', 'kirk treutel'})","kirk treutel,klara runolfsdottir sr.",21872,20
+21599,Antic Hay,Boyce Hoeger,Realistic fiction,Leaf Books,2007,frozenset({'boyce hoeger'}),boyce hoeger,21599,15
+22003,Garry's Mod,Kizzie Purdy,Fiction in verse,Cambridge University Press,2025,frozenset({'kizzie purdy'}),kizzie purdy,22003,17
+21679,Oldboy,Benjamin Mills,Mystery,Blackwell Publishing,2017,frozenset({'benjamin mills'}),benjamin mills,21679,25
+22020,An Acceptable Time,Sean Kassulke,Fiction narrative,Black Dog Publishing,2017,frozenset({'sean kassulke'}),sean kassulke,22020,10
+21628,Animal Crossing,Marlin Kuvalis,Fantasy,Penguin Books,1987,frozenset({'marlin kuvalis'}),marlin kuvalis,21628,17
+21815,Cover Her Face,"Yesenia Raynor DDS, Hue Ondricka I, Lewis Boehm",Fable,Zed Books,1989,"frozenset({'hue ondricka i', 'yesenia raynor dds', 'lewis boehm'})","hue ondricka i,lewis boehm,yesenia raynor dds",21815,31
+22000,Mega Man,Albert Lehner Ret.,Comic/Graphic Novel,Marion Boyars Publishers,1981,frozenset({'albert lehner ret.'}),albert lehner ret.,22000,9
+21477,A Many-Splendoured Thing,Sook Halvorson,Fanfiction,HarperTrophy,1936,frozenset({'sook halvorson'}),sook halvorson,21477,14
+21891,Team Fortress Classic,Roman Koss,Humor,Zed Books,1995,frozenset({'roman koss'}),roman koss,21891,37
+21639,PokÃ©mon Yellow,Timmy Corwin,Realistic fiction,Carnegie Mellon University Press,1894,frozenset({'timmy corwin'}),timmy corwin,21639,17
+21380,Mario Kart 8,Garth Marvin,Fable,HarperPrism,1991,frozenset({'garth marvin'}),garth marvin,21380,24
+21649,The Maltese Falcon,Anton Moen,Fairy tale,John Blake Publishing,1850,frozenset({'anton moen'}),anton moen,21649,28
+22041,The Legend of Zelda: Majora's Mask,"Adelia Lind, Floyd Cassin III",Western,Casemate Publishers,1985,"frozenset({'adelia lind', 'floyd cassin iii'})","adelia lind,floyd cassin iii",22041,20
+21702,Indiana Jones and the Last Crusade,Mrs. Jessie Brekke,Science fiction,Blackwell Publishing,2024,frozenset({'mrs. jessie brekke'}),mrs. jessie brekke,21702,24
+21569,The Parliament of Man,Miss Wade Lebsack,Fiction in verse,Hay House,2021,frozenset({'miss wade lebsack'}),miss wade lebsack,21569,19
+21777,The Golden Apples of the Sun,Jeffry Nolan Ret.,Essay,Cloverdale Corporation,1994,frozenset({'jeffry nolan ret.'}),jeffry nolan ret.,21777,15
+21535,25,Benjamin Mills,Fantasy,Pathfinder Press,1994,frozenset({'benjamin mills'}),benjamin mills,21535,23
+21844,Batman Begins,"Louanne Cruickshank, Lakenya Boyer IV",Narrative nonfiction,Shire Books,2004,"frozenset({'lakenya boyer iv', 'louanne cruickshank'})","lakenya boyer iv,louanne cruickshank",21844,13
+22043,Fame Is the Spur,Fr. Dick Spinka,Fantasy,Bantam Books,2015,frozenset({'fr. dick spinka'}),fr. dick spinka,22043,17
+21490,Taming a Sea Horse,"Kevin Mayer, Kimberely Kutch, Darius Mohr",Horror,Ian Allan Publishing,2004,"frozenset({'kevin mayer', 'darius mohr', 'kimberely kutch'})","darius mohr,kevin mayer,kimberely kutch",21490,30
+21417,Super Mario Odyssey,Matthew Turner,Legend,Andrews McMeel Publishing,1986,frozenset({'matthew turner'}),matthew turner,21417,19
+21619,Myst,Sonny Bogan,Fanfiction,David & Charles,2014,frozenset({'sonny bogan'}),sonny bogan,21619,15
+21324,I Dreamed a Dream,Hortencia Wunsch,Fantasy,Kodansha,1993,frozenset({'hortencia wunsch'}),hortencia wunsch,21324,26
+21588,Double Indemnity,Marlin Kuvalis,Tall tale,Casemate Publishers,1903,frozenset({'marlin kuvalis'}),marlin kuvalis,21588,20
+21533,Half-Life: Blue Shift,Garth Marvin,Fiction in verse,Salt Publishing,1876,frozenset({'garth marvin'}),garth marvin,21533,23
+21897,Time To Murder And Create,Hortencia Wunsch,Mystery,Lethe Press,2009,frozenset({'hortencia wunsch'}),hortencia wunsch,21897,24
+21336,Gone Girl,Jimmie Harvey,Narrative nonfiction,Harvard University Press,1985,frozenset({'jimmie harvey'}),jimmie harvey,21336,10
+21742,Mad Max: Fury Road,Jimmie Harvey,Speech,Kessinger Publishing,2003,frozenset({'jimmie harvey'}),jimmie harvey,21742,15
+21851,Half-Life,"Moshe Wilderman, Dr. Emmaline Ritchie, Norberto Kohler",Narrative nonfiction,Open University Press,2023,"frozenset({'moshe wilderman', 'norberto kohler', 'dr. emmaline ritchie'})","dr. emmaline ritchie,moshe wilderman,norberto kohler",21851,23
+21554,Super Mario Galaxy,Ozzie Jast,Science fiction,Mainstream Publishing,2013,frozenset({'ozzie jast'}),ozzie jast,21554,32
+21532,Command & Conquer: Red Alert,Tabetha Johnston,Realistic fiction,Left Book Club,2002,frozenset({'tabetha johnston'}),tabetha johnston,21532,16
+21792,Look to Windward,Bennett Raynor,Speech,Shire Books,1983,frozenset({'bennett raynor'}),bennett raynor,21792,16
+21848,Garry's Mod,Kizzie Purdy,Fiction in verse,Zed Books,2015,frozenset({'kizzie purdy'}),kizzie purdy,21848,21
+21838,The Daffodil Sky,"Hal Nitzsche, Damian Gulgowski",Crime/Detective,Open Court Publishing Company,1852,"frozenset({'damian gulgowski', 'hal nitzsche'})","damian gulgowski,hal nitzsche",21838,9
+21360,A Clockwork Orange,"Laureen Herzog, Rep. Bridgett Rosenbaum, Richie Gislason, Charlsie Cummerata",Fiction narrative,Broadview Press,2022,"frozenset({'rep. bridgett rosenbaum', 'richie gislason', 'laureen herzog', 'charlsie cummerata'})","charlsie cummerata,laureen herzog,rep. bridgett rosenbaum,richie gislason",21360,10
+21810,Beyond the Mexique Bay,"Reginia Weissnat, Miss Wade Lebsack",Classic,Golden Cockerel Press,1964,"frozenset({'miss wade lebsack', 'reginia weissnat'})","miss wade lebsack,reginia weissnat",21810,15
+22023,PokÃ©mon Silver,Cristin Deckow III,Fantasy,Palgrave Macmillan,2023,frozenset({'cristin deckow iii'}),cristin deckow iii,22023,20
+21497,Jaws,"Sen. Amber Roberts, Prof. Augustus Konopelski",Textbook,Broadview Press,2006,"frozenset({'sen. amber roberts', 'prof. augustus konopelski'})","prof. augustus konopelski,sen. amber roberts",21497,23
+21601,Dog Day Afternoon,Laronda Kuhn,Essay,Hackett Publishing Company,1987,frozenset({'laronda kuhn'}),laronda kuhn,21601,23
+21870,The Bridge on the River Kwai,Cordell Ritchie,Realistic fiction,Flame Tree Publishing,2009,frozenset({'cordell ritchie'}),cordell ritchie,21870,22
+21741,Fire Emblem Awakening,"Rep. Bridgett Rosenbaum, Charlsie Cummerata, Laureen Herzog, Richie Gislason",Historical fiction,Karadi Tales,2008,"frozenset({'rep. bridgett rosenbaum', 'laureen herzog', 'richie gislason', 'charlsie cummerata'})","charlsie cummerata,laureen herzog,rep. bridgett rosenbaum,richie gislason",21741,20
+21867,Garry's Mod,Kizzie Purdy,Fiction in verse,Reed Publishing,2022,frozenset({'kizzie purdy'}),kizzie purdy,21867,24
+21637,PokÃ©mon Emerald,Travis Von,Humor,Open University Press,1977,frozenset({'travis von'}),travis von,21637,23
+22031,Let Us Now Praise Famous Men,Sook Halvorson,Speech,Bowes & Bowes,1980,frozenset({'sook halvorson'}),sook halvorson,22031,15
+21428,Groundhog Day,"Norberto Kohler, Moshe Wilderman",Mythopoeia,Elsevier,1996,"frozenset({'moshe wilderman', 'norberto kohler'})","moshe wilderman,norberto kohler",21428,30
+21419,Ice Climbers,"Raymundo Aufderhar, Lamar Kautzer, Isabelle Boehm",Crime/Detective,Book League of America,1976,"frozenset({'lamar kautzer', 'isabelle boehm', 'raymundo aufderhar'})","isabelle boehm,lamar kautzer,raymundo aufderhar",21419,9
+21766,The Little Foxes,Irmgard Bogan I,Crime/Detective,Gefen Publishing House,1992,frozenset({'irmgard bogan i'}),irmgard bogan i,21766,15
+21539,Finding Nemo,Angel Kuhic,Narrative nonfiction,Secker & Warburg,1990,frozenset({'angel kuhic'}),angel kuhic,21539,9
+21467,The Woman in Me,"Veronique Carter, Anton Toy",Historical fiction,Cisco Press,2018,"frozenset({'anton toy', 'veronique carter'})","anton toy,veronique carter",21467,22
+21521,Wolfenstein: The New Order,Rosalva Beer,Western,Adis International,1832,frozenset({'rosalva beer'}),rosalva beer,21521,21
+21821,Now Sleeps the Crimson Petal,Bobbie Bernier,Speech,Marion Boyars Publishers,2010,frozenset({'bobbie bernier'}),bobbie bernier,21821,12
+21392,Taxi Driver,Zoila Christiansen,Fairy tale,Booktrope,2019,frozenset({'zoila christiansen'}),zoila christiansen,21392,15
+22046,Half-Life 2,Fr. Dick Spinka,Historical fiction,,1987,frozenset({'fr. dick spinka'}),fr. dick spinka,22046,25
+21614,Sleep the Brave,Donovan Bins,Western,Hay House,1995,frozenset({'donovan bins'}),donovan bins,21614,17
+21647,Rocky,Benjamin Mills,Mystery,McGraw-Hill Education,1980,frozenset({'benjamin mills'}),benjamin mills,21647,9
+21752,PokÃ©mon SoulSilver,Reginia Weissnat,Metafiction,Carnegie Mellon University Press,1993,frozenset({'reginia weissnat'}),reginia weissnat,21752,16
+21546,Mega Man Battle Network,Ms. Kami Prosacco,Biography/Autobiography,Unfinished Monument Press,2004,frozenset({'ms. kami prosacco'}),ms. kami prosacco,21546,19
+21470,Jagged Little Pill,Teresia Fisher,Science fiction,Voyager Books,1986,frozenset({'teresia fisher'}),teresia fisher,21470,17
+21629,In the Name of the Father,Barb Lynch,Tall tale,Lethe Press,2003,frozenset({'barb lynch'}),barb lynch,21629,15
+21514,Half-Life 2: Episode Two,Richie Gislason,Essay,Anova Books,1866,frozenset({'richie gislason'}),richie gislason,21514,20
+21873,Desperados: Wanted Dead or Alive,Pres. Shana Block,Fiction narrative,Reed Publishing,1978,frozenset({'pres. shana block'}),pres. shana block,21873,20
+21687,Stalker,Sook Halvorson,Short story,Tate Publishing & Enterprises,1976,frozenset({'sook halvorson'}),sook halvorson,21687,15
+21332,The Lathe of Heaven,Rosalva Beer,Fantasy,Voyager Books,2003,frozenset({'rosalva beer'}),rosalva beer,21332,19
+21860,Supernatural,"Mitch Gusikowski, Kirsten Schaefer",Fable,Carcanet Press,2023,"frozenset({'mitch gusikowski', 'kirsten schaefer'})","kirsten schaefer,mitch gusikowski",21860,15
+21672,Life of Brian,"Cornell Murazik, Mr. Terrell Sawayn",Fairy tale,Gefen Publishing House,1989,"frozenset({'cornell murazik', 'mr. terrell sawayn'})","cornell murazik,mr. terrell sawayn",21672,16
+21828,BioShock Infinite,Cristin Deckow III,Metafiction,McGraw-Hill Education,1989,frozenset({'cristin deckow iii'}),cristin deckow iii,21828,21
+21422,Kirby's Adventure,Felicita White DO,Narrative nonfiction,Golden Cockerel Press,1995,frozenset({'felicita white do'}),felicita white do,21422,14
+21908,Call of Duty: Modern Warfare Remastered,Johnny Russel,Speech,Ballantine Books,2009,frozenset({'johnny russel'}),johnny russel,21908,19
+21939,Left 4 Dead 2,Cruz Abshire MD,Mystery,Vintage Books,2002,frozenset({'cruz abshire md'}),cruz abshire md,21939,12
+21598,Metroid Prime 2: Echoes,Wendell Zboncak,Comic/Graphic Novel,"Farrar, Straus & Giroux",1877,frozenset({'wendell zboncak'}),wendell zboncak,21598,24
+22051,Call of Duty: Black Ops 4,Sanjuana Bernier,Science fiction,Andrews McMeel Publishing,1977,frozenset({'sanjuana bernier'}),sanjuana bernier,22051,23
+21593,The Mermaids Singing,Allan Dickinson,Fairy tale,Churchill Livingstone,2006,frozenset({'allan dickinson'}),allan dickinson,21593,25
+21756,Tapestry,Timothy Murazik,Mythopoeia,AndrÃ© Deutsch,1999,frozenset({'timothy murazik'}),timothy murazik,21756,18
+22048,Dookie,Cordell Ritchie,Realistic fiction,Imperial War Museum,2004,frozenset({'cordell ritchie'}),cordell ritchie,22048,12
+21401,Shadow of the Colossus,Timothy Murazik,Mystery,Marshall Pickering,2021,frozenset({'timothy murazik'}),timothy murazik,21401,26
+21550,All the King's Men,Shanelle Upton,Mystery,Unfinished Monument Press,2010,frozenset({'shanelle upton'}),shanelle upton,21550,14
+21596,The Colour of My Love,Brandi Cole,Horror,FabJob,2009,frozenset({'brandi cole'}),brandi cole,21596,13
+21604,F-Zero,Myrtis Corwin,Realistic fiction,HMSO,2008,frozenset({'myrtis corwin'}),myrtis corwin,21604,23
+21436,Endless Night,Karisa Kozey,Mythology,New English Library,1977,frozenset({'karisa kozey'}),karisa kozey,21436,15
+21874,Frequent Hearses,Dr. Deb Kemmer,Essay,Anova Books,1982,frozenset({'dr. deb kemmer'}),dr. deb kemmer,21874,7
+21784,Witness for the Prosecution,Hoyt Jacobson III,Fiction narrative,Shuter & Shooter Publishers,1988,frozenset({'hoyt jacobson iii'}),hoyt jacobson iii,21784,29
+21809,Pong,"Jae Bogisich, Lonnie Hilpert",Speech,Etruscan Press,1984,"frozenset({'jae bogisich', 'lonnie hilpert'})","jae bogisich,lonnie hilpert",21809,16
+21541,Like a Virgin,Beverly McDermott,Mystery,Blackie and Son Limited,2017,frozenset({'beverly mcdermott'}),beverly mcdermott,21541,21
+21443,Pulp Fiction,"Lonnie Hilpert, Jae Bogisich",Historical fiction,Gaspereau Press,1984,"frozenset({'jae bogisich', 'lonnie hilpert'})","jae bogisich,lonnie hilpert",21443,23
+21685,A Passage to India,Prof. Remedios Powlowski,Textbook,Harlequin Enterprises Ltd,1985,frozenset({'prof. remedios powlowski'}),prof. remedios powlowski,21685,22
+21630,"Look Homeward, Angel","Jeffery Leuschke PhD, Frederick Klocko CPA, Miss Bok Barrows, Era Hodkiewicz",Comic/Graphic Novel,Shambhala Publications,1979,"frozenset({'frederick klocko cpa', 'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,frederick klocko cpa,jeffery leuschke phd,miss bok barrows",21630,31
+21926,PokÃ©mon Shield,Lonnie Hilpert,Mythology,Naiad Press,1990,frozenset({'lonnie hilpert'}),lonnie hilpert,21926,21
+21382,Metallica,Farah Rohan II,Mystery,Firebrand Books,1934,frozenset({'farah rohan ii'}),farah rohan ii,21382,18
+21905,Off the Wall,Cordell Ritchie,Legend,University of Michigan Press,2002,frozenset({'cordell ritchie'}),cordell ritchie,21905,17
+21311,Halo 3: ODST,"Dominque Fisher, Leigh Bednar",Fairy tale,St. Martin's Press,1991,"frozenset({'dominque fisher', 'leigh bednar'})","dominque fisher,leigh bednar",21311,13
+21491,The Golden Apples of the Sun,Jeffry Nolan Ret.,Essay,Firebrand Books,1984,frozenset({'jeffry nolan ret.'}),jeffry nolan ret.,21491,23
+21735,Some Like It Hot,"Kylee Smith, Zoila Christiansen",Mystery,Left Book Club,2017,"frozenset({'kylee smith', 'zoila christiansen'})","kylee smith,zoila christiansen",21735,26
+21933,O Jerusalem!,Johnny Russel,Classic,-,2014,frozenset({'johnny russel'}),johnny russel,21933,17
+21587,Command & Conquer: Generals,"Louanne Cruickshank, Lakenya Boyer IV",Essay,Carnegie Mellon University Press,1956,"frozenset({'lakenya boyer iv', 'louanne cruickshank'})","lakenya boyer iv,louanne cruickshank",21587,37
+21454,WALLÂ·E,Mohamed Dach,Realistic fiction,Daedalus Publishing,2018,frozenset({'mohamed dach'}),mohamed dach,21454,14
+22056,Seven Samurai,Jaleesa Breitenberg DVM,Realistic fiction,Paulist Press,1987,frozenset({'jaleesa breitenberg dvm'}),jaleesa breitenberg dvm,22056,19
+21917,The Bodyguard,Dr. Pat Kunze,Fantasy,Legend Books,2004,frozenset({'dr. pat kunze'}),dr. pat kunze,21917,13
+21493,Full Metal Jacket,"Curtis Rohan, Rocky Erdman",Mythopoeia,Harper & Brothers,2001,"frozenset({'curtis rohan', 'rocky erdman'})","curtis rohan,rocky erdman",21493,15
+21961,Let's Talk About Love,The Hon. Terence Klocko,Science fiction,Penguin Books,1998,frozenset({'the hon. terence klocko'}),the hon. terence klocko,21961,18
+21743,Born in the U.S.A.,Rep. Vern Turcotte,Comic/Graphic Novel,Vintage Books,2020,frozenset({'rep. vern turcotte'}),rep. vern turcotte,21743,14
+21574,Hysteria,"Lamar Kautzer, Isabelle Boehm, Raymundo Aufderhar",Suspense/Thriller,Tarpaulin Sky Press,1976,"frozenset({'lamar kautzer', 'isabelle boehm', 'raymundo aufderhar'})","isabelle boehm,lamar kautzer,raymundo aufderhar",21574,19
+21456,Puyo Puyo Tetris,Latrina Kuphal,Humor,Bowes & Bowes,2023,frozenset({'latrina kuphal'}),latrina kuphal,21456,20
+21680,PokÃ©mon Y,"Mitch Gusikowski, Dylan Upton, Fredda Brekke, Vernice Emard",Science fiction,Boydell & Brewer,1978,"frozenset({'fredda brekke', 'dylan upton', 'mitch gusikowski', 'vernice emard'})","dylan upton,fredda brekke,mitch gusikowski,vernice emard",21680,18
+21704,The Green Bay Tree,Lakenya Boyer IV,Folklore,Atheneum Publishers,1976,frozenset({'lakenya boyer iv'}),lakenya boyer iv,21704,21
+21517,Tiger! Tiger!,"Anton Toy, Veronique Carter",Reference book,Athabasca University Press,2024,"frozenset({'anton toy', 'veronique carter'})","anton toy,veronique carter",21517,19
+21373,Halo 3,Shelby Willms IV,Tall tale,Mainstream Publishing,1976,frozenset({'shelby willms iv'}),shelby willms iv,21373,9
+21472,Ricochet,Zoila Christiansen,Speech,City Lights Publishers,1988,frozenset({'zoila christiansen'}),zoila christiansen,21472,11
+21941,Hybrid Theory,"Tomasa Kozey, The Hon. Kylee Rempel",Fable,J. M. Dent,2021,"frozenset({'tomasa kozey', 'the hon. kylee rempel'})","the hon. kylee rempel,tomasa kozey",21941,17
+21669,Appetite for Destruction,Lonnie Hilpert,Fiction narrative,Fairview Press,,frozenset({'lonnie hilpert'}),lonnie hilpert,21669,17
+21560,Super Smash Bros. Ultimate,Korey Rice V,Speech,University of California Press,1994,frozenset({'korey rice v'}),korey rice v,21560,19
+21816,O Pioneers!,Myrl Miller,Mythopoeia,Ziff Davis Media,0,frozenset({'myrl miller'}),myrl miller,21816,19
+21856,The Violent Bear It Away,"Alphonso Gulgowski, Mercedez Welch",Short story,Pecan Grove Press,1989,"frozenset({'alphonso gulgowski', 'mercedez welch'})","alphonso gulgowski,mercedez welch",21856,18
+21654,Modern Times,Frederick Klocko CPA,Science fiction,Addison-Wesley,2022,frozenset({'frederick klocko cpa'}),frederick klocko cpa,21654,19
+21715,A Confederacy of Dunces,Zachary Ryan,Metafiction,Bellevue Literary Press,2024,frozenset({'zachary ryan'}),zachary ryan,21715,13
+21837,A Monstrous Regiment of Women,"Lavon Langosh, Msgr. Juan Beer, Garth Heidenreich",Reference book,HarperCollins,2013,"frozenset({'garth heidenreich', 'msgr. juan beer', 'lavon langosh'})","garth heidenreich,lavon langosh,msgr. juan beer",21837,12
+22029,1,Rosann Wolf VM,Short story,Gay Men's Press,2023,frozenset({'rosann wolf vm'}),rosann wolf vm,22029,24
+21498,Chinatown,"Dominque Fisher, Leigh Bednar",Comic/Graphic Novel,Nauka,1997,"frozenset({'dominque fisher', 'leigh bednar'})","dominque fisher,leigh bednar",21498,16
+21523,The Wives of Bath,Jeffry Nolan Ret.,Metafiction,Carlton Publishing Group,1985,frozenset({'jeffry nolan ret.'}),jeffry nolan ret.,21523,21
+21886,Unweaving the Rainbow,Reid Rice,Classic,Apress,2012,frozenset({'reid rice'}),reid rice,21886,18
+21807,Dying of the Light,Johnny Russel,Science fiction,Apress,2008,frozenset({'johnny russel'}),johnny russel,21807,27
+21819,Deus Ex,"Kylee Smith, Zoila Christiansen",Metafiction,Libertas Academica,2025,"frozenset({'kylee smith', 'zoila christiansen'})","kylee smith,zoila christiansen",21819,15
+21387,The Marshall Mathers LP,Rossana Cruickshank,Horror,Allen Ltd,1965,frozenset({'rossana cruickshank'}),rossana cruickshank,21387,21
+21316,Commandos 3: Destination Berlin,Terrance Schneider,Narrative nonfiction,Pen and Sword Books,2024,frozenset({'terrance schneider'}),terrance schneider,21316,22
+21765,The Great Escape,Maura Kuvalis DC,Fiction narrative,Blackie and Son Limited,1996,frozenset({'maura kuvalis dc'}),maura kuvalis dc,21765,21
+21310,Gold: Greatest Hits,Jimmie Harvey,Essay,Horizon Scientific Press,1998,frozenset({'jimmie harvey'}),jimmie harvey,21310,9
+21434,PlayerUnknown's Battlegrounds,Jeffry Nolan Ret.,Comic/Graphic Novel,Ellora's Cave,1981,frozenset({'jeffry nolan ret.'}),jeffry nolan ret.,21434,25
+22008,"Ah, Wilderness!",Gov. Crystle Klocko,Narrative nonfiction,Carlton Books,2024,frozenset({'gov. crystle klocko'}),gov. crystle klocko,22008,11
+21746,PokÃ©mon Crystal,"Haley Nader, Shanta Price",Narrative nonfiction,Pen and Sword Books,1977,"frozenset({'haley nader', 'shanta price'})","haley nader,shanta price",21746,36
+21978,Dial M for Murder,"Alphonso Gulgowski, Mercedez Welch, Josette Nikolaus DC",Classic,Packt Publishing,2004,"frozenset({'alphonso gulgowski', 'mercedez welch', 'josette nikolaus dc'})","alphonso gulgowski,josette nikolaus dc,mercedez welch",21978,8
+21312,Command & Conquer: Tiberium Alliances,Casey Bode,Fanfiction,Salt Publishing,1980,frozenset({'casey bode'}),casey bode,21312,19
+21584,Se7en,Gov. Crystle Klocko,Crime/Detective,Martinus Nijhoff Publishers,1976,frozenset({'gov. crystle klocko'}),gov. crystle klocko,21584,12
+22015,Tirra Lirra by the River,Sean Harvey III,Humor,Eerdmans Publishing,2003,frozenset({'sean harvey iii'}),sean harvey iii,22015,17
+21678,Desperados III,Pres. Ariel Runte,Mythopoeia,Martinus Nijhoff Publishers,2014,frozenset({'pres. ariel runte'}),pres. ariel runte,21678,20
+21638,From Here to Eternity,Teresia Fisher,Mythology,Edupedia Publications,1999,frozenset({'teresia fisher'}),teresia fisher,21638,17
+21370,For a Breath I Tarry,Prof. Remedios Powlowski,Mystery,,1996,frozenset({'prof. remedios powlowski'}),prof. remedios powlowski,21370,19
+21607,Life Is Beautiful,"Antione O'Reilly, Josette Nikolaus DC",Fantasy,Oberon Books,1978,"frozenset({""antione o'reilly"", 'josette nikolaus dc'})","antione o'reilly,josette nikolaus dc",21607,12
+21989,Eyeless in Gaza,Valery Schimmel,Crime/Detective,Pavilion Books,2023,frozenset({'valery schimmel'}),valery schimmel,21989,14
+21782,"Such, Such Were the Joys",Korey Rice V,Legend,Lion Hudson,2007,frozenset({'korey rice v'}),korey rice v,21782,24
+21716,Let Us Now Praise Famous Men,Sook Halvorson,Speech,Cambridge University Press,1970,frozenset({'sook halvorson'}),sook halvorson,21716,15
+21307,Bayonetta 2,Floyd Cassin III,Horror,Bloodaxe Books,2003,frozenset({'floyd cassin iii'}),floyd cassin iii,21307,16
+21404,PokÃ©mon Pearl,Julia Bartoletti,Realistic fiction,Adis International,1990,frozenset({'julia bartoletti'}),julia bartoletti,21404,16
+21333,12 Years a Slave,"Jon Hettinger DVM, Randal McCullough, Benedict Steuber",Fiction in verse,Carcanet Press,1976,"frozenset({'randal mccullough', 'benedict steuber', 'jon hettinger dvm'})","benedict steuber,jon hettinger dvm,randal mccullough",21333,27
+21315,That Good Night,"Korey Rice V, Rico Zemlak",Mythology,NavPress,1985,"frozenset({'korey rice v', 'rico zemlak'})","korey rice v,rico zemlak",21315,16
+21366,The Godfather: Part II,Miss Wade Lebsack,Suspense/Thriller,Hawthorne Books,1998,frozenset({'miss wade lebsack'}),miss wade lebsack,21366,9
+22040,Everything is Illuminated,Alec Ziemann,Folklore,Charles Scribner's Sons,2002,frozenset({'alec ziemann'}),alec ziemann,22040,9
+21717,The Stars' Tennis Balls,Antonio Lindgren,Classic,Naiad Press,1852,frozenset({'antonio lindgren'}),antonio lindgren,21717,19
+21880,Castle Crashers,Prof. Remedios Powlowski,Fiction narrative,Kodansha,2006,frozenset({'prof. remedios powlowski'}),prof. remedios powlowski,21880,32
+21367,Platoon,Ms. Kami Prosacco,Tall tale,Black Dog Publishing,1991,frozenset({'ms. kami prosacco'}),ms. kami prosacco,21367,21
+21751,F-Zero,Myrtis Corwin,Realistic fiction,Chronicle Books,2010,frozenset({'myrtis corwin'}),myrtis corwin,21751,23
+21515,A Darkling Plain,"Delois Koss, Catrina Roob PhD, Sid Oberbrunner",Legend,Ballantine Books,2010,"frozenset({'delois koss', 'sid oberbrunner', 'catrina roob phd'})","catrina roob phd,delois koss,sid oberbrunner",21515,20
+21791,Star Wars: Episode I â€“ The Phantom Menace,Carroll Schultz,Science fiction,Harper & Brothers,2008,frozenset({'carroll schultz'}),carroll schultz,21791,23
+21318,Infamous,Reuben Mayert,Fairy tale,Chambers Harrap,2015,frozenset({'reuben mayert'}),reuben mayert,21318,7
+21430,True Blue,"Amb. Elia Lebsack, Edmundo Oberbrunner, Bernard Bayer",Fanfiction,Bantam Books,2018,"frozenset({'amb. elia lebsack', 'edmundo oberbrunner', 'bernard bayer'})","amb. elia lebsack,bernard bayer,edmundo oberbrunner",21430,13
+22011,Halo 5: Guardians,"Coy Streich, Keeley Hand, Lela Emard",Horror,D. Appleton & Company,1979,"frozenset({'keeley hand', 'lela emard', 'coy streich'})","coy streich,keeley hand,lela emard",22011,15
+21907,The Eminem Show,Mrs. Jessie Brekke,Tall tale,Harvill Press at Random House,1983,frozenset({'mrs. jessie brekke'}),mrs. jessie brekke,21907,25
+21594,Down to a Sunless Sea,Rico Zemlak,Reference book,Adis International,2024,frozenset({'rico zemlak'}),rico zemlak,21594,10
+21768,The Joshua Tree,Pres. Donya West,Legend,Penguin Books,2021,frozenset({'pres. donya west'}),pres. donya west,21768,17
+21603,Amadeus,Beatris Upton,Tall tale,Sidgwick & Jackson,1979,frozenset({'beatris upton'}),beatris upton,21603,10
+21350,Mass Effect,Sanjuana Bernier,Historical fiction,Reed Publishing,1978,frozenset({'sanjuana bernier'}),sanjuana bernier,21350,13
+21400,The Soldier's Art,Pres. Shana Block,Fable,Leaf Books,1980,frozenset({'pres. shana block'}),pres. shana block,21400,5
+21786,Donnie Darko,Quintin O'Kon,Horror,Pantheon Books at Random House,1998,"frozenset({""quintin o'kon""})",quintin o'kon,21786,13
+21652,To a God Unknown,"Amb. Elia Lebsack, Bernard Bayer, Jerry Cormier, Edmundo Oberbrunner",Legend,Left Book Club,1986,"frozenset({'amb. elia lebsack', 'jerry cormier', 'bernard bayer', 'edmundo oberbrunner'})","amb. elia lebsack,bernard bayer,edmundo oberbrunner,jerry cormier",21652,14
+21853,The Dark Knight,"Rico Zemlak, Korey Rice V",Western,Bowes & Bowes,1980,"frozenset({'korey rice v', 'rico zemlak'})","korey rice v,rico zemlak",21853,12
+21426,Endless Night,Karisa Kozey,Mythology,Gefen Publishing House,1982,frozenset({'karisa kozey'}),karisa kozey,21426,24
+21657,Doom II,"Randal McCullough, Jon Hettinger DVM, Benedict Steuber",Horror,Secker & Warburg,2005,"frozenset({'randal mccullough', 'benedict steuber', 'jon hettinger dvm'})","benedict steuber,jon hettinger dvm,randal mccullough",21657,7
+21682,Saving Private Ryan,"Mohamed Dach, Clyde Jacobson",Folklore,Pecan Grove Press,2008,"frozenset({'clyde jacobson', 'mohamed dach'})","clyde jacobson,mohamed dach",21682,7
+21937,The Terminator,"Soledad Hickle, Dennis Heaney",Legend,Cambridge University Press,1999,"frozenset({'soledad hickle', 'dennis heaney'})","dennis heaney,soledad hickle",21937,22
+21686,Super Mario Galaxy 2,Elenor Langosh,Historical fiction,Lion Hudson,2005,frozenset({'elenor langosh'}),elenor langosh,21686,23
+21355,Diablo III,"Miss Bok Barrows, Jeffery Leuschke PhD, Era Hodkiewicz, Frederick Klocko CPA",Short story,Legend Books,1863,"frozenset({'frederick klocko cpa', 'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,frederick klocko cpa,jeffery leuschke phd,miss bok barrows",21355,31
+21413,Nuovo Cinema Paradiso,"Dr. Emmaline Ritchie, Moshe Wilderman, Norberto Kohler",Horror,Naiad Press,2006,"frozenset({'moshe wilderman', 'norberto kohler', 'dr. emmaline ritchie'})","dr. emmaline ritchie,moshe wilderman,norberto kohler",21413,22
+21691,I Know Why the Caged Bird Sings,Gov. Crystle Klocko,Classic,Mandrake of Oxford,1992,frozenset({'gov. crystle klocko'}),gov. crystle klocko,21691,23
+21727,Mirror's Edge,"Antione O'Reilly, Josette Nikolaus DC",Humor,Butterworth-Heinemann,2004,"frozenset({""antione o'reilly"", 'josette nikolaus dc'})","antione o'reilly,josette nikolaus dc",21727,20
+21341,The Princess Bride,Jermaine Wehner,Comic/Graphic Novel,Open Court Publishing Company,1997,frozenset({'jermaine wehner'}),jermaine wehner,21341,27
+21857,Star Wars: Episode II â€“ Attack of the Clones,Ria Senger,Mythopoeia,Borgo Press,2020,frozenset({'ria senger'}),ria senger,21857,11
+22044,Toy Story,Julia Bartoletti,Fairy tale,Jarrolds Publishing,1990,frozenset({'julia bartoletti'}),julia bartoletti,22044,7
+21944,Persona,"Sean Harvey III, Glenna Huel, Enrique Gislason",Fantasy,BBC Books,1992,"frozenset({'glenna huel', 'sean harvey iii', 'enrique gislason'})","enrique gislason,glenna huel,sean harvey iii",21944,23
+21431,Nine Coaches Waiting,Susannah Tremblay DC,Speech,Voyager Books,1938,frozenset({'susannah tremblay dc'}),susannah tremblay dc,21431,20
+21612,Bayonetta,Mitch Gusikowski,Fiction narrative,Booktrope,1878,frozenset({'mitch gusikowski'}),mitch gusikowski,21612,10
+21731,Firewatch,"Glenna Huel, Enrique Gislason",Historical fiction,Candlewick Press,2026,"frozenset({'glenna huel', 'enrique gislason'})","enrique gislason,glenna huel",21731,13
+21971,Sunset Blvd.,"Alina Collier Esq., Kevin Mayer, Kimberely Kutch, Darius Mohr",Mystery,Carcanet Press,2014,"frozenset({'kevin mayer', 'alina collier esq.', 'darius mohr', 'kimberely kutch'})","alina collier esq.,darius mohr,kevin mayer,kimberely kutch",21971,17
+21946,PokÃ©mon Ultra Sun,Wendell Zboncak,Mythology,Jaico Publishing House,1982,frozenset({'wendell zboncak'}),wendell zboncak,21946,17
+21331,The Prestige,Amos Romaguera Jr.,Reference book,D. Appleton & Company,1991,frozenset({'amos romaguera jr.'}),amos romaguera jr.,21331,12
+21888,The Dark Knight Rises,Alina Collier Esq.,Narrative nonfiction,HarperCollins,1976,frozenset({'alina collier esq.'}),alina collier esq.,21888,14
+21689,Scarface,Angel Kuhic,Classic,Bantam Books,1994,frozenset({'angel kuhic'}),angel kuhic,21689,19
+21600,Specimen Days,Donovan Bins,Suspense/Thriller,Packt Publishing,1988,frozenset({'donovan bins'}),donovan bins,21600,21
+21552,A Time to Kill,"Rep. Bridgett Rosenbaum, Laureen Herzog, Charlsie Cummerata",Classic,Pecan Grove Press,1990,"frozenset({'rep. bridgett rosenbaum', 'laureen herzog', 'charlsie cummerata'})","charlsie cummerata,laureen herzog,rep. bridgett rosenbaum",21552,22
+21563,Recalled to Life,Rossana Cruickshank,Fiction narrative,Harvest House,2012,frozenset({'rossana cruickshank'}),rossana cruickshank,21563,14
+21566,The Lord of the Rings: The Two Towers,Carolyn Yost,Mystery,Mainstream Publishing,1900,frozenset({'carolyn yost'}),carolyn yost,21566,16
+21354,To Your Scattered Bodies Go,Abigail Reynolds,Biography/Autobiography,Basic Books,1978,frozenset({'abigail reynolds'}),abigail reynolds,21354,17
+21440,Sholay,Miss Jesus Pfannerstill,Western,,1852,frozenset({'miss jesus pfannerstill'}),miss jesus pfannerstill,21440,19
+21712,Saving Private Ryan,"Mohamed Dach, Clyde Jacobson",Folklore,Gefen Publishing House,2014,"frozenset({'clyde jacobson', 'mohamed dach'})","clyde jacobson,mohamed dach",21712,23
+22018,Of Mice and Men,Rosalva Beer,Crime/Detective,Victor Gollancz Ltd,1998,frozenset({'rosalva beer'}),rosalva beer,22018,20
+21403,Bicycle Thieves,Candis Ledner Sr.,Mythopoeia,Simon & Schuster,,frozenset({'candis ledner sr.'}),candis ledner sr.,21403,24
+21935,Gandhi,Carin Christiansen,Narrative nonfiction,Caister Academic Press,1956,frozenset({'carin christiansen'}),carin christiansen,21935,12
+21942,The Wealth of Nations,Myrtis Corwin,Essay,Hackett Publishing Company,2015,frozenset({'myrtis corwin'}),myrtis corwin,21942,8
+21397,A Handful of Dust,"Rosann Wolf VM, Sean Kassulke",Fairy tale,D. Reidel,1979,"frozenset({'rosann wolf vm', 'sean kassulke'})","rosann wolf vm,sean kassulke",21397,13
+21790,The Help,Kizzie Purdy,Crime/Detective,Caister Academic Press,2017,frozenset({'kizzie purdy'}),kizzie purdy,21790,15
+21847,High School Musical,Robby Powlowski,Folklore,Daedalus Publishing,1995,frozenset({'robby powlowski'}),robby powlowski,21847,18
+21642,The Other Side of Silence,Elvina Nader,Comic/Graphic Novel,Harvard University Press,1985,frozenset({'elvina nader'}),elvina nader,21642,16
+21489,Good Will Hunting,Chara Morissette,Realistic fiction,Mapin Publishing,1987,frozenset({'chara morissette'}),chara morissette,21489,22
+21787,Lemonade,"Glenna Huel, Enrique Gislason",Fiction narrative,Shambhala Publications,2020,"frozenset({'glenna huel', 'enrique gislason'})","enrique gislason,glenna huel",21787,19
+21455,East of Eden,Farah Rohan II,Mythopoeia,Berkley Books,2002,frozenset({'farah rohan ii'}),farah rohan ii,21455,15
+21365,The Golden Apples of the Sun,Jeffry Nolan Ret.,Essay,Blue Ribbon Books,1988,frozenset({'jeffry nolan ret.'}),jeffry nolan ret.,21365,16
+22021,Room,"Damian Gulgowski, Hal Nitzsche",Realistic fiction,Taylor & Francis,2015,"frozenset({'damian gulgowski', 'hal nitzsche'})","damian gulgowski,hal nitzsche",22021,17
+21794,Judgment at Nuremberg,"Jeffery Leuschke PhD, Miss Bok Barrows, Frederick Klocko CPA, Era Hodkiewicz",Reference book,Voyager Books,2001,"frozenset({'frederick klocko cpa', 'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,frederick klocko cpa,jeffery leuschke phd,miss bok barrows",21794,27
+21450,Braveheart,Candis Ledner Sr.,Horror,Darakwon Press,2020,frozenset({'candis ledner sr.'}),candis ledner sr.,21450,9
+21475,The Moving Toyshop,Rep. Vern Turcotte,Historical fiction,Manning Publications,1952,frozenset({'rep. vern turcotte'}),rep. vern turcotte,21475,15
+21985,Death Be Not Proud,"Anton Toy, Veronique Carter",Metafiction,Imperial War Museum,1996,"frozenset({'anton toy', 'veronique carter'})","anton toy,veronique carter",21985,13
+21722,"Lock, Stock and Two Smoking Barrels",Prof. Remedios Powlowski,Fable,Kodansha,2019,frozenset({'prof. remedios powlowski'}),prof. remedios powlowski,21722,26
+21673,Interstellar,Elias O'Kon,Fairy tale,Basic Books,2002,"frozenset({""elias o'kon""})",elias o'kon,21673,16
+21635,Commandos: Behind Enemy Lines,Hortencia Wunsch,Comic/Graphic Novel,Fearless Books,2001,frozenset({'hortencia wunsch'}),hortencia wunsch,21635,13
+21371,PokÃ©mon LeafGreen,"Tamika Hayes, Julius Barrows",Folklore,Oberon Books,1945,"frozenset({'julius barrows', 'tamika hayes'})","julius barrows,tamika hayes",21371,31
+21429,Happy Nation,Karisa Kozey,Fable,HarperTrophy,1997,frozenset({'karisa kozey'}),karisa kozey,21429,28
+21408,The Third Man,Rosann Wolf VM,Speech,Pen and Sword Books,2005,frozenset({'rosann wolf vm'}),rosann wolf vm,21408,14
+21922,Blithe Spirit,Prof. Augustus Konopelski,Classic,Paulist Press,2016,frozenset({'prof. augustus konopelski'}),prof. augustus konopelski,21922,22
+21930,City Lights,Sen. Geri Mann,Fantasy,New Village Press,2003,frozenset({'sen. geri mann'}),sen. geri mann,21930,10
+21991,Terminator 2: Judgment Day,Kasey Effertz,Fanfiction,Cengage Learning,2017,frozenset({'kasey effertz'}),kasey effertz,21991,19
+22027,The Daffodil Sky,"Hal Nitzsche, Damian Gulgowski",Crime/Detective,FabJob,1840,"frozenset({'damian gulgowski', 'hal nitzsche'})","damian gulgowski,hal nitzsche",22027,21
+21711,High School Musical 2,Mr. Dominque Becker,Comic/Graphic Novel,Airiti Press,1990,frozenset({'mr. dominque becker'}),mr. dominque becker,21711,19
+21576,Metal Gear Solid,Lakesha McCullough,Metafiction,Adis International,2017,frozenset({'lakesha mccullough'}),lakesha mccullough,21576,21
+21402,The Grapes of Wrath,Les Rogahn,Mythology,Harper & Brothers,2020,frozenset({'les rogahn'}),les rogahn,21402,16
+21524,Viva la Vida or Death and All His Friends,"Keeley Hand, Lela Emard, Coy Streich",Realistic fiction,Oberon Books,2005,"frozenset({'keeley hand', 'lela emard', 'coy streich'})","coy streich,keeley hand,lela emard",21524,15
+21557,Transistor,"Josette Nikolaus DC, Antione O'Reilly",Mythology,Chambers Harrap,1985,"frozenset({""antione o'reilly"", 'josette nikolaus dc'})","antione o'reilly,josette nikolaus dc",21557,17
+21433,Halo Wars,Odell Willms,Mythopoeia,Ten Speed Press,1990,frozenset({'odell willms'}),odell willms,21433,21
+21309,Beauty and the Beast,Sue Stark,Textbook,Atlas Press,1976,frozenset({'sue stark'}),sue stark,21309,12
+21444,Battletoads,Fletcher Upton,Tall tale,Broadview Press,1989,frozenset({'fletcher upton'}),fletcher upton,21444,11
+21750,Desperados 2: Cooper's Revenge,"Sean Kassulke, Lawrence Hauck",Crime/Detective,Ian Allan Publishing,2014,"frozenset({'lawrence hauck', 'sean kassulke'})","lawrence hauck,sean kassulke",21750,34
+21641,(What's the Story) Morning Glory?,Rep. Vern Turcotte,Short story,Daedalus Publishing,2020,frozenset({'rep. vern turcotte'}),rep. vern turcotte,21641,21
+21453,"Such, Such Were the Joys",Korey Rice V,Legend,Ace Books,1996,frozenset({'korey rice v'}),korey rice v,21453,19
+21671,After Many a Summer Dies the Swan,Susannah Tremblay DC,Reference book,Gefen Publishing House,1998,frozenset({'susannah tremblay dc'}),susannah tremblay dc,21671,8
+21325,Lilies of the Field,Lesli Bernier III,Metafiction,Etruscan Press,1978,frozenset({'lesli bernier iii'}),lesli bernier iii,21325,29
+21923,For Whom the Bell Tolls,"Floyd Cassin III, Adelia Lind",Horror,Hackett Publishing Company,2010,"frozenset({'adelia lind', 'floyd cassin iii'})","adelia lind,floyd cassin iii",21923,23
+21525,Behold the Man,Myrtis Corwin,Short story,Hachette Book Group USA,2026,frozenset({'myrtis corwin'}),myrtis corwin,21525,27
+21427,Nectar in a Sieve,Jerrold Bogan LLD,Suspense/Thriller,Brimstone Press,2015,frozenset({'jerrold bogan lld'}),jerrold bogan lld,21427,14
+21854,All Passion Spent,Caroyln Wilderman,Suspense/Thriller,SAGE Publications,1990,frozenset({'caroyln wilderman'}),caroyln wilderman,21854,21
+21966,The Moving Toyshop,Rep. Vern Turcotte,Historical fiction,D. Appleton & Company,1971,frozenset({'rep. vern turcotte'}),rep. vern turcotte,21966,24
+21919,Raging Bull,Albert Lehner Ret.,Fairy tale,Mainstream Publishing,2016,frozenset({'albert lehner ret.'}),albert lehner ret.,21919,25
+21468,The Daffodil Sky,"Hal Nitzsche, Damian Gulgowski",Crime/Detective,Liberty Fund,1844,"frozenset({'damian gulgowski', 'hal nitzsche'})","damian gulgowski,hal nitzsche",21468,11
+21999,God of War,Zackary Carter,Science fiction,Tate Publishing & Enterprises,2000,frozenset({'zackary carter'}),zackary carter,21999,20
+21313,Super Meat Boy,Carin Christiansen,Crime/Detective,McGraw-Hill Education,2013,frozenset({'carin christiansen'}),carin christiansen,21313,13
+21448,Monty Python and the Holy Grail,Ozzie Jast,Fable,Hachette Book Group USA,2009,frozenset({'ozzie jast'}),ozzie jast,21448,15
+21884,There Will Be Blood,Angel Kuhic,Fantasy,Kodansha,2024,frozenset({'angel kuhic'}),angel kuhic,21884,10
+21929,Super Mario Bros. 3,"Mohamed Dach, Clyde Jacobson",Legend,Fairview Press,2016,"frozenset({'clyde jacobson', 'mohamed dach'})","clyde jacobson,mohamed dach",21929,32
+21339,The Legend of Zelda: Breath of the Wild,Sen. Leta Berge,Biography/Autobiography,Fairview Press,2024,frozenset({'sen. leta berge'}),sen. leta berge,21339,19
+21362,...Baby One More Time,Shanelle Upton,Fiction in verse,Brill Publishers,2009,frozenset({'shanelle upton'}),shanelle upton,21362,19
+22009,Bury My Heart at Wounded Knee,"Roland Murray, Selena Schroeder",Fanfiction,Firebrand Books,2012,"frozenset({'roland murray', 'selena schroeder'})","roland murray,selena schroeder",22009,13
+21798,PokÃ©mon X,Reginia Weissnat,Textbook,Unfinished Monument Press,2018,frozenset({'reginia weissnat'}),reginia weissnat,21798,23
+21749,Metroid Prime,Mellie Williamson,Mythopoeia,Unfinished Monument Press,1977,frozenset({'mellie williamson'}),mellie williamson,21749,32
+21737,"HIStory: Past, Present and Future, Book I",Mrs. Jessie Brekke,Mythopoeia,Emerald Group Publishing,2013,frozenset({'mrs. jessie brekke'}),mrs. jessie brekke,21737,29
+21562,Fortnite,"Norberto Kohler, Moshe Wilderman",Metafiction,Taylor & Francis,1983,"frozenset({'moshe wilderman', 'norberto kohler'})","moshe wilderman,norberto kohler",21562,25
+21424,By Grand Central Station I Sat Down and Wept,"Jeffery Leuschke PhD, Miss Bok Barrows, Era Hodkiewicz",Mythology,Packt Publishing,2001,"frozenset({'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,jeffery leuschke phd,miss bok barrows",21424,10
+21504,Rumours,Elliot Monahan,Science fiction,Mandrake Press,2000,frozenset({'elliot monahan'}),elliot monahan,21504,11
+21405,La La Land,Jermaine Wehner,Fanfiction,Lion Hudson,2015,frozenset({'jermaine wehner'}),jermaine wehner,21405,13
+21410,Of Human Bondage,Earnest Glover,Textbook,University of California Press,1993,frozenset({'earnest glover'}),earnest glover,21410,4
+21703,All We Know Is Falling,Albert Lehner Ret.,Folklore,Hodder Headline,1983,frozenset({'albert lehner ret.'}),albert lehner ret.,21703,24
+21627,Command & Conquer: Generals,"Louanne Cruickshank, Lakenya Boyer IV",Essay,Bloodaxe Books,1978,"frozenset({'lakenya boyer iv', 'louanne cruickshank'})","lakenya boyer iv,louanne cruickshank",21627,16
+21701,The Witcher 3: Wild Hunt,Marlon Casper,Mythopoeia,Harvest House,2013,frozenset({'marlon casper'}),marlon casper,21701,14
+21887,How to Train Your Dragon,"Renee Rogahn, Merrill Marks",Narrative nonfiction,University of Akron Press,2003,"frozenset({'renee rogahn', 'merrill marks'})","merrill marks,renee rogahn",21887,17
+21663,Frequent Hearses,Dr. Deb Kemmer,Essay,Adis International,1984,frozenset({'dr. deb kemmer'}),dr. deb kemmer,21663,10
+21719,Into the Wild,Salvatore Mills,Speech,Legend Books,2003,frozenset({'salvatore mills'}),salvatore mills,21719,22
+21330,As I Lay Dying,Sean Harvey III,Fanfiction,Signet Books,2006,frozenset({'sean harvey iii'}),sean harvey iii,21330,26
+21979,A Swiftly Tilting Planet,Lonnie Hilpert,Fanfiction,Signet Books,1977,frozenset({'lonnie hilpert'}),lonnie hilpert,21979,17
+21391,Portal,Josue Grady,Metafiction,Focal Press,2012,frozenset({'josue grady'}),josue grady,21391,15
+21769,Team Fortress Classic,Roman Koss,Humor,Breslov Research Institute,2017,frozenset({'roman koss'}),roman koss,21769,18
+21945,The Monkey's Raincoat,Zachary Ryan,Tall tale,Charles Scribner's Sons,2018,frozenset({'zachary ryan'}),zachary ryan,21945,21
+21762,Cabbages and Kings,"Joseph Raynor, Ja Ankunding II, Franklyn Stokes VM",Fiction narrative,Secker & Warburg,2024,"frozenset({'ja ankunding ii', 'franklyn stokes vm', 'joseph raynor'})","franklyn stokes vm,ja ankunding ii,joseph raynor",21762,30
+21889,Diablo,Cristin Deckow III,Science fiction,Blackstaff Press,1986,frozenset({'cristin deckow iii'}),cristin deckow iii,21889,21
+21670,The Legend of Zelda: Skyward Sword,"Klara Runolfsdottir Sr., Kirk Treutel",Historical fiction,Hawthorne Books,2019,"frozenset({'klara runolfsdottir sr.', 'kirk treutel'})","kirk treutel,klara runolfsdottir sr.",21670,24
+21928,Brothers in Arms,Fletcher Upton,Science fiction,Borgo Press,2005,frozenset({'fletcher upton'}),fletcher upton,21928,15
+21438,Seven Samurai,Jaleesa Breitenberg DVM,Realistic fiction,Atlas Press,2008,frozenset({'jaleesa breitenberg dvm'}),jaleesa breitenberg dvm,21438,17
+21335,The General,"Msgr. Mohammed Buckridge, Lilla Gislason DC, Catarina Gleason",Science fiction,City Lights Publishers,2014,"frozenset({'lilla gislason dc', 'msgr. mohammed buckridge', 'catarina gleason'})","catarina gleason,lilla gislason dc,msgr. mohammed buckridge",21335,22
+21389,Confessions,Timothy Murazik,Science fiction,Left Book Club,1996,frozenset({'timothy murazik'}),timothy murazik,21389,17
+21698,"Paris, Texas",Sen. Geri Mann,Mythopoeia,Mark Batty Publisher,2007,frozenset({'sen. geri mann'}),sen. geri mann,21698,14
+21823,The Grand Budapest Hotel,"Era Hodkiewicz, Miss Bok Barrows, Jeffery Leuschke PhD",Fable,Allen Ltd,1985,"frozenset({'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,jeffery leuschke phd,miss bok barrows",21823,25
+21409,Great Work of Time,Laronda Kuhn,Crime/Detective,HarperPrism,2012,frozenset({'laronda kuhn'}),laronda kuhn,21409,11
+21962,Command & Conquer: Red Alert 2 - Yuris Revenge,Kylee Smith,Fiction narrative,Pavilion Books,1997,frozenset({'kylee smith'}),kylee smith,21962,6
+21705,Unforgiven,Kizzie Purdy,Mystery,Ladybird Books,2001,frozenset({'kizzie purdy'}),kizzie purdy,21705,22
+21811,Day of Defeat,"Louanne Cruickshank, Lakenya Boyer IV",Fable,Tarpaulin Sky Press,2015,"frozenset({'lakenya boyer iv', 'louanne cruickshank'})","lakenya boyer iv,louanne cruickshank",21811,32
+21724,The Doors of Perception,Amos Romaguera Jr.,Horror,Etruscan Press,2012,frozenset({'amos romaguera jr.'}),amos romaguera jr.,21724,25
+21590,No Jacket Required,Kristeen Kessler CPA,Fiction in verse,Libertas Academica,2002,frozenset({'kristeen kessler cpa'}),kristeen kessler cpa,21590,15
+21544,Luigi's Mansion,Ria Senger,Legend,George Routledge & Sons,1999,frozenset({'ria senger'}),ria senger,21544,17
+21478,The Moon by Night,"Frederick Klocko CPA, Era Hodkiewicz, Jeffery Leuschke PhD, Miss Bok Barrows",Historical fiction,Unfinished Monument Press,2000,"frozenset({'frederick klocko cpa', 'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,frederick klocko cpa,jeffery leuschke phd,miss bok barrows",21478,12
+21804,Vampire: The Masquerade â€“ Bloodlines,Frederick Klocko CPA,Essay,Candlewick Press,1986,frozenset({'frederick klocko cpa'}),frederick klocko cpa,21804,20
+21829,Sunrise: A Song of Two Humans,"Darius Mohr, Miss Jesus Pfannerstill, Kevin Mayer, Kimberely Kutch",Horror,Andrews McMeel Publishing,1989,"frozenset({'kevin mayer', 'miss jesus pfannerstill', 'darius mohr', 'kimberely kutch'})","darius mohr,kevin mayer,kimberely kutch,miss jesus pfannerstill",21829,15
+21479,In Death Ground,Garth Marvin,Fantasy,Dalkey Archive Press,1977,frozenset({'garth marvin'}),garth marvin,21479,14
+21473,A Beautiful Mind,"Kevin Mayer, Kimberely Kutch, Darius Mohr",Science fiction,Bison Books,2006,"frozenset({'kevin mayer', 'darius mohr', 'kimberely kutch'})","darius mohr,kevin mayer,kimberely kutch",21473,10
+21661,Grave of the Fireflies,"Guadalupe Batz Ret., Malorie Glover, Paula Rolfson",Reference book,Harvard University Press,2010,"frozenset({'malorie glover', 'guadalupe batz ret.', 'paula rolfson'})","guadalupe batz ret.,malorie glover,paula rolfson",21661,10
+21911,Many Waters,Brandi Cole,Fable,Chambers Harrap,1966,frozenset({'brandi cole'}),brandi cole,21911,6
+21304,Brothers in Arms,Fletcher Upton,Science fiction,Library of America,2002,frozenset({'fletcher upton'}),fletcher upton,21304,11
+21932,Toy Story 2,Jeffry Nolan Ret.,Comic/Graphic Novel,Eel Pie Publishing,2012,frozenset({'jeffry nolan ret.'}),jeffry nolan ret.,21932,21
+21960,Dungeon Keeper,Les Rogahn,Mythopoeia,Blackie and Son Limited,1970,frozenset({'les rogahn'}),les rogahn,21960,12
+21547,Paths of Glory,Donovan Bins,Mythopoeia,Bloomsbury Publishing Plc,-1,frozenset({'donovan bins'}),donovan bins,21547,26
+21718,Lemonade,"Glenna Huel, Enrique Gislason",Fiction narrative,Dalkey Archive Press,2018,"frozenset({'glenna huel', 'enrique gislason'})","enrique gislason,glenna huel",21718,10
+21839,"The Good, the Bad and the Ugly",Tory Dare V,Textbook,Academic Press,1856,frozenset({'tory dare v'}),tory dare v,21839,11
+21713,Fargo,"Mohamed Dach, Clyde Jacobson",Biography/Autobiography,Bantam Books,2020,"frozenset({'clyde jacobson', 'mohamed dach'})","clyde jacobson,mohamed dach",21713,9
+21878,Midnight Memories,The Hon. Kylee Rempel,Speech,Elsevier,2003,frozenset({'the hon. kylee rempel'}),the hon. kylee rempel,21878,17
+21729,Once Upon a Time in the West,Edith Barrows,Suspense/Thriller,Shire Books,1989,frozenset({'edith barrows'}),edith barrows,21729,22
+21356,An Instant In The Wind,Kristeen Kessler CPA,Short story,Tarpaulin Sky Press,2022,frozenset({'kristeen kessler cpa'}),kristeen kessler cpa,21356,14
+21363,Songs About Jane,Jermaine Wehner,Mystery,Hay House,1995,frozenset({'jermaine wehner'}),jermaine wehner,21363,23
+21558,Halo 3: ODST,"Dominque Fisher, Leigh Bednar",Fairy tale,Ten Speed Press,2019,"frozenset({'dominque fisher', 'leigh bednar'})","dominque fisher,leigh bednar",21558,11
+21896,Half-Life 2: Lost Coast,Albert Lehner Ret.,Science fiction,Earthscan,1984,frozenset({'albert lehner ret.'}),albert lehner ret.,21896,20
+21626,The Witcher 2: Assassins of Kings,Joe Schultz,Legend,Zed Books,1979,frozenset({'joe schultz'}),joe schultz,21626,8
+21394,It Happened One Night,Cruz Abshire MD,Mystery,DAW Books,1982,frozenset({'cruz abshire md'}),cruz abshire md,21394,7
+21970,Prisoners,Yuette Parker,Fiction narrative,Scholastic Press,2009,frozenset({'yuette parker'}),yuette parker,21970,22
+21496,Before Sunrise,Boris Schowalter CPA,Mythopoeia,Hackett Publishing Company,1981,frozenset({'boris schowalter cpa'}),boris schowalter cpa,21496,19
+21620,The Apartment,Lonnie Hilpert,Historical fiction,Horizon Scientific Press,2009,frozenset({'lonnie hilpert'}),lonnie hilpert,21620,24
+21736,F.E.A.R.,Kylee Smith,Biography/Autobiography,Atlas Press,1992,frozenset({'kylee smith'}),kylee smith,21736,17
+21480,Nine Coaches Waiting,Susannah Tremblay DC,Speech,Black Dog Publishing,1957,frozenset({'susannah tremblay dc'}),susannah tremblay dc,21480,22
+21329,WarioWare: Smooth Moves,Sean Harvey III,Fiction in verse,Verso Books,1951,frozenset({'sean harvey iii'}),sean harvey iii,21329,21
+21555,The Moving Finger,"Alysa Pouros Esq., Amb. Amberly Beatty",Fiction narrative,Harper & Brothers,2015,"frozenset({'alysa pouros esq.', 'amb. amberly beatty'})","alysa pouros esq.,amb. amberly beatty",21555,20
+21499,Crash Bandicoot,Allan Dickinson,Fairy tale,David & Charles,2005,frozenset({'allan dickinson'}),allan dickinson,21499,13
+21308,Animal Crossing: City Folk,Sonny Bogan,Fable,Parragon,2000,frozenset({'sonny bogan'}),sonny bogan,21308,24
+21900,Star Wars: Episode III â€“ Revenge of the Sith,Dr. Emmaline Ritchie,Folklore,Black Sparrow Books,2025,frozenset({'dr. emmaline ritchie'}),dr. emmaline ritchie,21900,18
+21592,PokÃ©mon Red,Alysa Pouros Esq.,Speech,Blackstaff Press,1999,frozenset({'alysa pouros esq.'}),alysa pouros esq.,21592,10
+21706,The Road Less Traveled,"Clyde Jacobson, Jerald Raynor",Crime/Detective,Harlequin Enterprises Ltd,2017,"frozenset({'clyde jacobson', 'jerald raynor'})","clyde jacobson,jerald raynor",21706,16
+21849,Dance Dance Dance,Yuette Parker,Legend,Breslov Research Institute,1837,frozenset({'yuette parker'}),yuette parker,21849,27
+21754,When the Green Woods Laugh,Beatris Upton,Humor,ECW Press,2001,frozenset({'beatris upton'}),beatris upton,21754,15
+21836,Thriller,Benjamin Mills,Comic/Graphic Novel,HarperCollins,2025,frozenset({'benjamin mills'}),benjamin mills,21836,19
+21748,Abbey Road,Amos Romaguera Jr.,Fiction in verse,Barrie & Jenkins,1995,frozenset({'amos romaguera jr.'}),amos romaguera jr.,21748,11
+21909,The Dark Side of the Moon,"Beverly McDermott, Pedro Bradtke",Tall tale,Virago Press,1995,"frozenset({'pedro bradtke', 'beverly mcdermott'})","beverly mcdermott,pedro bradtke",21909,13
+21645,Hands All Over,Travis Von,Fantasy,Harvest House,2018,frozenset({'travis von'}),travis von,21645,15
+21561,Eternal Sunshine of the Spotless Mind,"Catarina Gleason, Lilla Gislason DC, Msgr. Mohammed Buckridge",Biography/Autobiography,Liberty Fund,1859,"frozenset({'catarina gleason', 'msgr. mohammed buckridge', 'lilla gislason dc'})","catarina gleason,lilla gislason dc,msgr. mohammed buckridge",21561,13
+21708,Infinite Jest,Lawrence Hauck,Reference book,Chatto and Windus,1987,frozenset({'lawrence hauck'}),lawrence hauck,21708,11
+21954,The Big Lebowski,Ted Rutherford,Fable,,1977,frozenset({'ted rutherford'}),ted rutherford,21954,16
+21505,Monster Hunter: World,Sook Halvorson,Historical fiction,Ten Speed Press,2018,frozenset({'sook halvorson'}),sook halvorson,21505,19
+21466,Saturday Night Fever,Frederick Klocko CPA,Metafiction,Allen Ltd,1870,frozenset({'frederick klocko cpa'}),frederick klocko cpa,21466,13
+21344,The Marshall Mathers LP,Rossana Cruickshank,Horror,Koren Publishers Jerusalem,1978,frozenset({'rossana cruickshank'}),rossana cruickshank,21344,15
+21527,Brandy of the Damned,Amb. Amberly Beatty,Comic/Graphic Novel,Tartarus Press,2014,frozenset({'amb. amberly beatty'}),amb. amberly beatty,21527,12
+21892,The Last Temptation,"Vernice Emard, Dylan Upton, Fredda Brekke",Biography/Autobiography,Da Capo Press,1996,"frozenset({'fredda brekke', 'dylan upton', 'vernice emard'})","dylan upton,fredda brekke,vernice emard",21892,16
+21506,Vile Bodies,Bobbie Bernier,Essay,Vintage Books,1978,frozenset({'bobbie bernier'}),bobbie bernier,21506,10
+21976,Hacksaw Ridge,Rico Zemlak,Comic/Graphic Novel,Bantam Books,2009,frozenset({'rico zemlak'}),rico zemlak,21976,9
+21710,Catch Me If You Can,Ms. Kami Prosacco,Fable,Random House,2002,frozenset({'ms. kami prosacco'}),ms. kami prosacco,21710,24
+22025,The Lord of the Rings: The Return of the King,"Joseph Raynor, Ja Ankunding II",Realistic fiction,Allen Ltd,2019,"frozenset({'ja ankunding ii', 'joseph raynor'})","ja ankunding ii,joseph raynor",22025,18
+21305,Intouchables,Jae Bogisich,Speech,New Village Press,2024,frozenset({'jae bogisich'}),jae bogisich,21305,18
+21609,The Kid,"Julius Barrows, Tamika Hayes",Mythopoeia,,1987,"frozenset({'julius barrows', 'tamika hayes'})","julius barrows,tamika hayes",21609,17
+21540,Bridge over Troubled Water,"Kimberely Kutch, Darius Mohr, Kevin Mayer, Alina Collier Esq.",Science fiction,Belknap Press,2016,"frozenset({'kevin mayer', 'alina collier esq.', 'darius mohr', 'kimberely kutch'})","alina collier esq.,darius mohr,kevin mayer,kimberely kutch",21540,17
+21863,Lawrence of Arabia,"Elmer Parker, Mireya Schroeder",Folklore,,2023,"frozenset({'mireya schroeder', 'elmer parker'})","elmer parker,mireya schroeder",21863,25
+21602,Banjo-Kazooie: Nuts & Bolts,Pres. Donya West,Textbook,Seagull Books,1838,frozenset({'pres. donya west'}),pres. donya west,21602,12
+21510,Mother Night,Jaleesa Breitenberg DVM,Mythopoeia,HarperPrism,2017,frozenset({'jaleesa breitenberg dvm'}),jaleesa breitenberg dvm,21510,12
+21303,Spirited Away,Josette Nikolaus DC,Metafiction,BBC Books,,frozenset({'josette nikolaus dc'}),josette nikolaus dc,21303,21
+21591,No Longer at Ease,Rev. Alix Langworth,Classic,Palgrave Macmillan,1995,frozenset({'rev. alix langworth'}),rev. alix langworth,21591,15
+21835,Mass Effect 3,Johnny Russel,Metafiction,Hackett Publishing Company,2006,frozenset({'johnny russel'}),johnny russel,21835,19
+21582,Have His Carcase,Marlin Kuvalis,Mythopoeia,Andrews McMeel Publishing,1993,frozenset({'marlin kuvalis'}),marlin kuvalis,21582,25
+21358,Max Payne,Boris Schowalter CPA,Mystery,G. P. Putnam's Sons,1976,frozenset({'boris schowalter cpa'}),boris schowalter cpa,21358,21
+21879,"Absalom, Absalom!",Lawrence Hauck,Classic,Ballantine Books,1997,frozenset({'lawrence hauck'}),lawrence hauck,21879,30
+21553,Boston,Sean Kassulke,Historical fiction,Ignatius Press,,frozenset({'sean kassulke'}),sean kassulke,21553,11
+21518,Star Wars: Episode V - The Empire Strikes Back,Sook Halvorson,Mythopoeia,Earthscan,1997,frozenset({'sook halvorson'}),sook halvorson,21518,24
+21494,PokÃ©mon White 2,Antonio Lindgren,Fiction narrative,Broadview Press,2016,frozenset({'antonio lindgren'}),antonio lindgren,21494,18
+21461,Little Hands Clapping,"Beverly McDermott, Pedro Bradtke",Historical fiction,Edupedia Publications,2002,"frozenset({'pedro bradtke', 'beverly mcdermott'})","beverly mcdermott,pedro bradtke",21461,18
+21797,Just Cause,Msgr. Leslie McClure,Essay,Marion Boyars Publishers,1977,frozenset({'msgr. leslie mcclure'}),msgr. leslie mcclure,21797,14
+22007,Civilization IV,Ambrose Ankunding,Legend,Flame Tree Publishing,1980,frozenset({'ambrose ankunding'}),ambrose ankunding,22007,22
+21516,"Such, Such Were the Joys",Korey Rice V,Legend,Liberty Fund,2011,frozenset({'korey rice v'}),korey rice v,21516,11
+21368,The Proper Study,Sen. Geri Mann,Speech,Mark Batty Publisher,1998,frozenset({'sen. geri mann'}),sen. geri mann,21368,21
+21393,Minecraft,"Keeley Hand, Lela Emard, Coy Streich",Legend,Gefen Publishing House,1997,"frozenset({'keeley hand', 'lela emard', 'coy streich'})","coy streich,keeley hand,lela emard",21393,45
+21634,Commandos 2: Men of Courage,Terrance Schneider,Humor,Harper & Row,1989,frozenset({'terrance schneider'}),terrance schneider,21634,23
+21725,Breakfast in America,Albert Lehner Ret.,Biography/Autobiography,Packt Publishing,0,frozenset({'albert lehner ret.'}),albert lehner ret.,21725,14
+21323,PokÃ©mon Platinum,Sean Kassulke,Metafiction,Blackwell Publishing,2018,frozenset({'sean kassulke'}),sean kassulke,21323,23
+22022,The Needle's Eye,"Sen. Amber Roberts, Prof. Augustus Konopelski",Classic,Carlton Books,1980,"frozenset({'sen. amber roberts', 'prof. augustus konopelski'})","prof. augustus konopelski,sen. amber roberts",22022,22
+21740,Metroid Prime 3: Corruption,Susannah Tremblay DC,Speech,Focal Press,1995,frozenset({'susannah tremblay dc'}),susannah tremblay dc,21740,18
+21615,Crysis 2,Kristeen Kessler CPA,Mythology,AndrÃ© Deutsch,1992,frozenset({'kristeen kessler cpa'}),kristeen kessler cpa,21615,12
+21571,System Shock,Tomasa Kozey,Legend,Medknow Publications,1995,frozenset({'tomasa kozey'}),tomasa kozey,21571,10
+21965,Super Mario Bros.,Floyd Cassin III,Science fiction,,2023,frozenset({'floyd cassin iii'}),floyd cassin iii,21965,28
+22012,Falling into You,"Lela Emard, Coy Streich, Keeley Hand",Western,,1890,"frozenset({'keeley hand', 'lela emard', 'coy streich'})","coy streich,keeley hand,lela emard",22012,10
+21611,Time of our Darkness,Mr. Dominque Becker,Tall tale,Airiti Press,1984,frozenset({'mr. dominque becker'}),mr. dominque becker,21611,17
+21452,City of God,Antonio Lindgren,Fairy tale,Gay Men's Press,1997,frozenset({'antonio lindgren'}),antonio lindgren,21452,25
+21781,Sgt. Pepper's Lonely Hearts Club Band,Lesli Bernier III,Narrative nonfiction,Orchard Books,1937,frozenset({'lesli bernier iii'}),lesli bernier iii,21781,7
+21412,Super Smash Bros. Ultimate,Korey Rice V,Speech,Barrie & Jenkins,1992,frozenset({'korey rice v'}),korey rice v,21412,26
+22013,Jurassic Park,The Hon. Kylee Rempel,Fantasy,Target Books,1983,frozenset({'the hon. kylee rempel'}),the hon. kylee rempel,22013,17
+21893,The Curious Incident of the Dog in the Night-Time,Antione O'Reilly,Fantasy,DAW Books,2016,"frozenset({""antione o'reilly""})",antione o'reilly,21893,21
+21377,The Needle's Eye,"Sen. Amber Roberts, Prof. Augustus Konopelski",Classic,Hodder & Stoughton,1982,"frozenset({'sen. amber roberts', 'prof. augustus konopelski'})","prof. augustus konopelski,sen. amber roberts",21377,21
+21421,Many Waters,Brandi Cole,Fable,Hackett Publishing Company,1982,frozenset({'brandi cole'}),brandi cole,21421,18
+22006,The Green Mile,"Benedict Steuber, Jon Hettinger DVM, Randal McCullough",Mythology,Hawthorne Books,1988,"frozenset({'randal mccullough', 'benedict steuber', 'jon hettinger dvm'})","benedict steuber,jon hettinger dvm,randal mccullough",22006,18
+21993,Backstreet Boys,Sook Halvorson,Crime/Detective,Virgin Publishing,1980,frozenset({'sook halvorson'}),sook halvorson,21993,16
+21579,I Will Fear No Evil,Farah Rohan II,Reference book,Bloomsbury Publishing Plc,2022,frozenset({'farah rohan ii'}),farah rohan ii,21579,21
+21567,Dota 2,Yuette Parker,Textbook,Kensington Books,1988,frozenset({'yuette parker'}),yuette parker,21567,23
+21342,Millennium,"Deborah Grant, Shanti Hand, Roman Osinski Sr.",Legend,Firebrand Books,2010,"frozenset({'roman osinski sr.', 'deborah grant', 'shanti hand'})","deborah grant,roman osinski sr.,shanti hand",21342,13
+22030,Counter-Strike: Global Offensive,Franklyn Stokes VM,Folklore,Canongate Books,2009,frozenset({'franklyn stokes vm'}),franklyn stokes vm,22030,26
+22032,Arms and the Man,Carroll Schultz,Historical fiction,Blackie and Son Limited,2005,frozenset({'carroll schultz'}),carroll schultz,22032,12
+21898,The Gold Rush,Elias O'Kon,Comic/Graphic Novel,Marion Boyars Publishers,1939,"frozenset({""elias o'kon""})",elias o'kon,21898,7
+21511,Dunkirk,Mrs. Jessie Brekke,Folklore,Golden Cockerel Press,1988,frozenset({'mrs. jessie brekke'}),mrs. jessie brekke,21511,10
+21299,Dangerous,Josette Nikolaus DC,Legend,Bantam Spectra,2025,frozenset({'josette nikolaus dc'}),josette nikolaus dc,21299,18
+21437,FranÃ§oise Sagan,Shirlene Toy,Science fiction,Paulist Press,2015,frozenset({'shirlene toy'}),shirlene toy,21437,27
+21664,Wolfenstein 3D,Elvina Nader,Biography/Autobiography,UCL Press,2001,frozenset({'elvina nader'}),elvina nader,21664,18
+21832,"Alone on a Wide, Wide Sea",Pedro Bradtke,Mystery,Basic Books,2006,frozenset({'pedro bradtke'}),pedro bradtke,21832,15
+21526,To Kill a Mockingbird,Roland Murray,Fanfiction,Paulist Press,1979,frozenset({'roland murray'}),roland murray,21526,13
+21940,In a Dry Season,Fletcher Upton,Horror,D. Reidel,2010,frozenset({'fletcher upton'}),fletcher upton,21940,13
+21992,Fortnite,"Norberto Kohler, Moshe Wilderman",Metafiction,G-Unit Books,1976,"frozenset({'moshe wilderman', 'norberto kohler'})","moshe wilderman,norberto kohler",21992,16
+21451,L.A. Noire,Billy Dare,Fairy tale,Hay House,1985,frozenset({'billy dare'}),billy dare,21451,16
+21949,Can't Slow Down,"Billie Ernser, Lamar Kautzer, Raymundo Aufderhar, Isabelle Boehm",Fiction in verse,Kogan Page,1996,"frozenset({'lamar kautzer', 'isabelle boehm', 'raymundo aufderhar', 'billie ernser'})","billie ernser,isabelle boehm,lamar kautzer,raymundo aufderhar",21949,13
+21340,BioShock,Benjamin Mills,Comic/Graphic Novel,Manning Publications,2011,frozenset({'benjamin mills'}),benjamin mills,21340,24
+21947,Halo: Reach,"Sean Harvey III, Glenna Huel, Enrique Gislason",Science fiction,Pathfinder Press,2000,"frozenset({'glenna huel', 'sean harvey iii', 'enrique gislason'})","enrique gislason,glenna huel,sean harvey iii",21947,25
+21631,Super Mario Sunshine,Julia Bartoletti,Fiction narrative,Parachute Publishing,1978,frozenset({'julia bartoletti'}),julia bartoletti,21631,30
+21320,Back to the Future,Anton Moen,Science fiction,DAW Books,2007,frozenset({'anton moen'}),anton moen,21320,14
+22053,A Farewell to Arms,"Antione O'Reilly, Josette Nikolaus DC",Essay,Tarpaulin Sky Press,2016,"frozenset({""antione o'reilly"", 'josette nikolaus dc'})","antione o'reilly,josette nikolaus dc",22053,14
+21327,Animal Crossing: New Leaf,Trevor Turner,Fiction in verse,Library of America,2005,frozenset({'trevor turner'}),trevor turner,21327,16
+21817,The Grand Budapest Hotel,"Era Hodkiewicz, Miss Bok Barrows, Jeffery Leuschke PhD",Fable,Godwit Press,1977,"frozenset({'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,jeffery leuschke phd,miss bok barrows",21817,23
+21420,The Man Within,Franklyn Stokes VM,Tall tale,Taylor & Francis,2019,frozenset({'franklyn stokes vm'}),franklyn stokes vm,21420,14
+21625,The Wind's Twelve Quarters,"Hue Ondricka I, Yesenia Raynor DDS, Lewis Boehm, Rosalva Beer",Fantasy,Secker & Warburg,1880,"frozenset({'hue ondricka i', 'rosalva beer', 'yesenia raynor dds', 'lewis boehm'})","hue ondricka i,lewis boehm,rosalva beer,yesenia raynor dds",21625,24
+21845,Cross Road,"Phil Hettinger Ret., Verna Skiles",Speech,J. M. Dent,1986,"frozenset({'phil hettinger ret.', 'verna skiles'})","phil hettinger ret.,verna skiles",21845,30
+21447,This Lime Tree Bower,"Blair Casper, Ms. Rodger Hoppe",Horror,Applewood Books,2005,"frozenset({'ms. rodger hoppe', 'blair casper'})","blair casper,ms. rodger hoppe",21447,23
+21314,Unplugged,"Randal McCullough, Benedict Steuber, Jon Hettinger DVM",Fiction narrative,Applewood Books,1978,"frozenset({'randal mccullough', 'benedict steuber', 'jon hettinger dvm'})","benedict steuber,jon hettinger dvm,randal mccullough",21314,9
+21581,Casablanca,Veronique Carter,Essay,Mandrake Press,1986,frozenset({'veronique carter'}),veronique carter,21581,16
+21826,Star Wars,"Moshe Wilderman, Norberto Kohler",Fanfiction,Bison Books,2023,"frozenset({'moshe wilderman', 'norberto kohler'})","moshe wilderman,norberto kohler",21826,28
+21353,The Shawshank Redemption,"Amb. Amberly Beatty, Alysa Pouros Esq.",Biography/Autobiography,Ian Allan Publishing,1982,"frozenset({'alysa pouros esq.', 'amb. amberly beatty'})","alysa pouros esq.,amb. amberly beatty",21353,18
+21622,The Way of All Flesh,"Guadalupe Batz Ret., Paula Rolfson, Kristeen Kessler CPA, Malorie Glover",Folklore,Nauka,2019,"frozenset({'malorie glover', 'guadalupe batz ret.', 'kristeen kessler cpa', 'paula rolfson'})","guadalupe batz ret.,kristeen kessler cpa,malorie glover,paula rolfson",21622,17
+21757,Rosemary Sutcliff,"Fredda Brekke, Vernice Emard, Dylan Upton",Essay,Ziff Davis Media,2008,"frozenset({'fredda brekke', 'dylan upton', 'vernice emard'})","dylan upton,fredda brekke,vernice emard",21757,23
+21984,Star Wars: Episode VI - Return of the Jedi,Kristeen Kessler CPA,Realistic fiction,Breslov Research Institute,2000,frozenset({'kristeen kessler cpa'}),kristeen kessler cpa,21984,10
+21958,The Immaculate Collection,Timmy Corwin,Fiction in verse,Charles Scribner's Sons,2022,frozenset({'timmy corwin'}),timmy corwin,21958,15
+21865,Blade Runner 2049,Odell Willms,Mythology,Mainstream Publishing,1988,frozenset({'odell willms'}),odell willms,21865,17
+21982,Batman: Arkham Asylum,Kirsten Schaefer,Textbook,Fearless Books,1978,frozenset({'kirsten schaefer'}),kirsten schaefer,21982,17
+21425,Whitney Houston,Angel Kuhic,Science fiction,Banner of Truth Trust,2023,frozenset({'angel kuhic'}),angel kuhic,21425,23
+21931,Whitney,Hortencia Wunsch,Legend,Tachyon Publications,2024,frozenset({'hortencia wunsch'}),hortencia wunsch,21931,23
+21463,Commandos: Beyond the Call of Duty,Miss Wade Lebsack,Comic/Graphic Novel,Orchard Books,1997,frozenset({'miss wade lebsack'}),miss wade lebsack,21463,25
+22024,Animal Crossing: Wild World,Lesli Bernier III,Metafiction,Cambridge University Press,1985,frozenset({'lesli bernier iii'}),lesli bernier iii,22024,17
+21876,The Waste Land,Mitch Gusikowski,Historical fiction,Mandrake of Oxford,2017,frozenset({'mitch gusikowski'}),mitch gusikowski,21876,30
+22047,The Grand Budapest Hotel,"Era Hodkiewicz, Miss Bok Barrows, Jeffery Leuschke PhD",Fable,Taylor & Francis,1993,"frozenset({'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,jeffery leuschke phd,miss bok barrows",22047,27
+21681,Katamari Damacy,"Mitch Gusikowski, Farah Rohan II",Metafiction,DAW Books,2016,"frozenset({'farah rohan ii', 'mitch gusikowski'})","farah rohan ii,mitch gusikowski",21681,12
+21578,North by Northwest,Billie Ernser,Fanfiction,Ace Books,0,frozenset({'billie ernser'}),billie ernser,21578,21
+21445,Command & Conquer: Red Alert 2,Mr. Dominque Becker,Humor,Canongate Books,2026,frozenset({'mr. dominque becker'}),mr. dominque becker,21445,16
+21345,2001: A Space Odyssey,Mr. Dominque Becker,Suspense/Thriller,SAGE Publications,2022,frozenset({'mr. dominque becker'}),mr. dominque becker,21345,16
+21348,Seven Samurai,Jaleesa Breitenberg DVM,Realistic fiction,Ignatius Press,2012,frozenset({'jaleesa breitenberg dvm'}),jaleesa breitenberg dvm,21348,22
+21758,The Elephant Man,Barb Lynch,Metafiction,Haynes Manuals,1983,frozenset({'barb lynch'}),barb lynch,21758,20
+21801,Nevermind,"Reginia Weissnat, Miss Wade Lebsack",Narrative nonfiction,Velazquez Press,2000,"frozenset({'miss wade lebsack', 'reginia weissnat'})","miss wade lebsack,reginia weissnat",21801,8
+21399,PokÃ©mon: Let's Go Eevee!,Casey Bode,Comic/Graphic Novel,Palgrave Macmillan,1999,frozenset({'casey bode'}),casey bode,21399,26
+21520,Dirty Dancing,Amb. Nannie Labadie,Legend,Horizon Scientific Press,1994,frozenset({'amb. nannie labadie'}),amb. nannie labadie,21520,13
+21406,Yoshi's Wooly World,Dr. Emmaline Ritchie,Essay,Sams Publishing,1987,frozenset({'dr. emmaline ritchie'}),dr. emmaline ritchie,21406,15
+21855,Music Box,Karisa Kozey,Western,George H. Doran Company,1997,frozenset({'karisa kozey'}),karisa kozey,21855,23
+21668,Civilization VI,"Kirk Treutel, Klara Runolfsdottir Sr., Lonnie Hilpert",Folklore,Virago Press,1888,"frozenset({'lonnie hilpert', 'klara runolfsdottir sr.', 'kirk treutel'})","kirk treutel,klara runolfsdottir sr.,lonnie hilpert",21668,4
+21500,Command & Conquer: Rivals,The Hon. Kylee Rempel,Humor,Dalkey Archive Press,2007,frozenset({'the hon. kylee rempel'}),the hon. kylee rempel,21500,18
+21813,The Lives of Others,"Lawrence Hauck, Sean Kassulke",Folklore,Burns & Oates,2001,"frozenset({'lawrence hauck', 'sean kassulke'})","lawrence hauck,sean kassulke",21813,14
+21955,Slippery When Wet,Beverly McDermott,Fiction in verse,Churchill Livingstone,2000,frozenset({'beverly mcdermott'}),beverly mcdermott,21955,21
+21738,Goodfellas,Shirlene Toy,Classic,Parachute Publishing,2020,frozenset({'shirlene toy'}),shirlene toy,21738,19
+22016,Terrible Swift Sword,Louanne Cruickshank,Horror,University of Michigan Press,1998,frozenset({'louanne cruickshank'}),louanne cruickshank,22016,16
+21636,Gandhi,Carin Christiansen,Narrative nonfiction,Martinus Nijhoff Publishers,1967,frozenset({'carin christiansen'}),carin christiansen,21636,26
+21885,Command & Conquer: Tiberian Sun,Amb. Amberly Beatty,Science fiction,,1852,frozenset({'amb. amberly beatty'}),amb. amberly beatty,21885,28
+21528,Once Upon a Time in America,Lakesha McCullough,Realistic fiction,Palgrave Macmillan,,frozenset({'lakesha mccullough'}),lakesha mccullough,21528,9
+21789,Call of Duty: Black Ops,"Kirk Treutel, Klara Runolfsdottir Sr.",Textbook,Gay Men's Press,1984,"frozenset({'klara runolfsdottir sr.', 'kirk treutel'})","kirk treutel,klara runolfsdottir sr.",21789,20
+21994,The Widening Gyre,The Hon. Terence Klocko,Fable,Butterworth-Heinemann,2001,frozenset({'the hon. terence klocko'}),the hon. terence klocko,21994,21
+21549,Cinema Paradiso,Miss Ward Farrell,Fantasy,Pen and Sword Books,1980,frozenset({'miss ward farrell'}),miss ward farrell,21549,17
+22045,Hotel Rwanda,Ted Rutherford,Reference book,Secker & Warburg,2025,frozenset({'ted rutherford'}),ted rutherford,22045,13
+21508,The Golden Bowl,"Tomasa Kozey, The Hon. Kylee Rempel",Realistic fiction,Gaspereau Press,2013,"frozenset({'tomasa kozey', 'the hon. kylee rempel'})","the hon. kylee rempel,tomasa kozey",21508,24
+21556,V for Vendetta,"Hal Nitzsche, Damian Gulgowski",Fantasy,University of Akron Press,2010,"frozenset({'damian gulgowski', 'hal nitzsche'})","damian gulgowski,hal nitzsche",21556,23
+21676,Guitar Hero,Miss Ward Farrell,Narrative nonfiction,Library of America,1989,frozenset({'miss ward farrell'}),miss ward farrell,21676,10
+21983,Brand New Eyes,Lakenya Boyer IV,Mythopoeia,"Farrar, Straus & Giroux",2010,frozenset({'lakenya boyer iv'}),lakenya boyer iv,21983,19
+21414,Star Wars: Episode I â€“ The Phantom Menace,Carroll Schultz,Science fiction,Pen and Sword Books,2002,frozenset({'carroll schultz'}),carroll schultz,21414,16
+21799,Commandos: Strike Force,Elmer Parker,Narrative nonfiction,Happy House,1994,frozenset({'elmer parker'}),elmer parker,21799,16
+21482,PokÃ©mon Moon,Zackary Carter,Fiction in verse,Candlewick Press,1978,frozenset({'zackary carter'}),zackary carter,21482,20
+21981,Daydream,Franklyn Stokes VM,Classic,Blue Ribbon Books,1980,frozenset({'franklyn stokes vm'}),franklyn stokes vm,21981,24
+21755,Starcraft,Danilo Zieme,Science fiction,Manning Publications,2015,frozenset({'danilo zieme'}),danilo zieme,21755,16
+21376,Kirby's Epic Yarn,"Frederick Klocko CPA, Jeffery Leuschke PhD, Miss Bok Barrows, Era Hodkiewicz",Fanfiction,Anova Books,2009,"frozenset({'frederick klocko cpa', 'era hodkiewicz', 'miss bok barrows', 'jeffery leuschke phd'})","era hodkiewicz,frederick klocko cpa,jeffery leuschke phd,miss bok barrows",21376,8
+21943,If I Forget Thee Jerusalem,Wendell Zboncak,Fable,United States Government Publishing Office,1979,frozenset({'wendell zboncak'}),wendell zboncak,21943,9
+21895,The Heart Is Deceitful Above All Things,"Randal McCullough, Jon Hettinger DVM, Benedict Steuber",Comic/Graphic Novel,Bantam Books,2000,"frozenset({'randal mccullough', 'benedict steuber', 'jon hettinger dvm'})","benedict steuber,jon hettinger dvm,randal mccullough",21895,17
+21770,Dwarf Fortress,Zoila Christiansen,Fairy tale,Basic Books,2003,frozenset({'zoila christiansen'}),zoila christiansen,21770,19
+21910,The Sign,Benjamin Mills,Comic/Graphic Novel,Marshall Cavendish,1890,frozenset({'benjamin mills'}),benjamin mills,21910,17
+21916,Crysis,"Dylan Upton, Fredda Brekke, Vernice Emard",Legend,Peace Hill Press,1983,"frozenset({'fredda brekke', 'dylan upton', 'vernice emard'})","dylan upton,fredda brekke,vernice emard",21916,18
+21812,Civilization V,Susannah Tremblay DC,Speech,Mandrake Press,2000,frozenset({'susannah tremblay dc'}),susannah tremblay dc,21812,22
+21396,Memento,Barb Lynch,Comic/Graphic Novel,Adis International,1992,frozenset({'barb lynch'}),barb lynch,21396,12
+21803,PokÃ©mon Blue,"Kristeen Kessler CPA, Malorie Glover, Guadalupe Batz Ret., Paula Rolfson",Classic,Marshall Pickering,2026,"frozenset({'malorie glover', 'guadalupe batz ret.', 'kristeen kessler cpa', 'paula rolfson'})","guadalupe batz ret.,kristeen kessler cpa,malorie glover,paula rolfson",21803,24
+21572,Command & Conquer: Generals - Zero Hour,Cleo Predovic,Fiction in verse,Godwit Press,2008,frozenset({'cleo predovic'}),cleo predovic,21572,12
+21650,Hitman: Absolution,"Zackary Carter, Nick Ziemann",Fable,Focal Press,1975,"frozenset({'nick ziemann', 'zackary carter'})","nick ziemann,zackary carter",21650,14
+21462,The Moving Toyshop,Rep. Vern Turcotte,Historical fiction,Adis International,1976,frozenset({'rep. vern turcotte'}),rep. vern turcotte,21462,15
+21764,PokÃ©mon Sword,"Edmundo Oberbrunner, Amb. Elia Lebsack, Bernard Bayer",Textbook,Fairview Press,2004,"frozenset({'amb. elia lebsack', 'edmundo oberbrunner', 'bernard bayer'})","amb. elia lebsack,bernard bayer,edmundo oberbrunner",21764,19
+21503,Halo 2,Gonzalo Macejkovic,Mythology,Schocken Books,2022,frozenset({'gonzalo macejkovic'}),gonzalo macejkovic,21503,18
+21841,An Evil Cradling,"Lonnie Hilpert, Jae Bogisich",Fantasy,HMSO,1984,"frozenset({'jae bogisich', 'lonnie hilpert'})","jae bogisich,lonnie hilpert",21841,27
+21793,Halo 4,"Amb. Elia Lebsack, Bernard Bayer, Edmundo Oberbrunner",Fable,Candlewick Press,2005,"frozenset({'amb. elia lebsack', 'edmundo oberbrunner', 'bernard bayer'})","amb. elia lebsack,bernard bayer,edmundo oberbrunner",21793,14
+21321,Fallout: New Vegas,Rosann Wolf VM,Reference book,Anova Books,2014,frozenset({'rosann wolf vm'}),rosann wolf vm,21321,17
+22017,"If Not Now, When?",Brandi Cole,Fantasy,St. Martin's Press,2010,frozenset({'brandi cole'}),brandi cole,22017,23
+21959,Saving Private Ryan,"Mohamed Dach, Clyde Jacobson",Folklore,Ziff Davis Media,1999,"frozenset({'clyde jacobson', 'mohamed dach'})","clyde jacobson,mohamed dach",21959,25
+21488,A Wednesday,Selena Schroeder,Comic/Graphic Novel,Charles Scribner's Sons,1994,frozenset({'selena schroeder'}),selena schroeder,21488,18
+21825,The Thing,Cleo Predovic,Science fiction,Bloodaxe Books,1999,frozenset({'cleo predovic'}),cleo predovic,21825,23
+21573,Vertigo,"Marlon Casper, Boyce Hoeger",Reference book,Brill,2025,"frozenset({'boyce hoeger', 'marlon casper'})","boyce hoeger,marlon casper",21573,15
+21322,Call of Duty 4: Modern Warfare,Mohamed Dach,Fantasy,Zed Books,1998,frozenset({'mohamed dach'}),mohamed dach,21322,22
+21483,To Sail Beyond the Sunset,Antonio Lindgren,Narrative nonfiction,Boydell & Brewer,2005,frozenset({'antonio lindgren'}),antonio lindgren,21483,11
+21432,Civilization III,Jerrold Bogan LLD,Historical fiction,Golden Cockerel Press,1977,frozenset({'jerrold bogan lld'}),jerrold bogan lld,21432,16
+21379,American Beauty,Prof. Remedios Powlowski,Western,Secker & Warburg,2021,frozenset({'prof. remedios powlowski'}),prof. remedios powlowski,21379,15
+21487,Kingdom Hearts II,Rossana Cruickshank,Reference book,Sams Publishing,1998,frozenset({'rossana cruickshank'}),rossana cruickshank,21487,13
+21666,PokÃ©mon Ultra Moon,"Kristeen Kessler CPA, Malorie Glover, Paula Rolfson, Guadalupe Batz Ret.",Fanfiction,Pen and Sword Books,2015,"frozenset({'malorie glover', 'guadalupe batz ret.', 'kristeen kessler cpa', 'paula rolfson'})","guadalupe batz ret.,kristeen kessler cpa,malorie glover,paula rolfson",21666,24
+21459,Wii Sports,Earnest Glover,Speech,Random House,2017,frozenset({'earnest glover'}),earnest glover,21459,17
+21301,Inside Out,Jaleesa Breitenberg DVM,Metafiction,"Farrar, Straus & Giroux",2011,frozenset({'jaleesa breitenberg dvm'}),jaleesa breitenberg dvm,21301,22
+21894,The Truman Show,"Jerald Raynor, Clyde Jacobson",Suspense/Thriller,Eerdmans Publishing,2012,"frozenset({'clyde jacobson', 'jerald raynor'})","clyde jacobson,jerald raynor",21894,17
+21957,Consider the Lilies,Trevor Turner,Science fiction,Harcourt Assessment,1904,frozenset({'trevor turner'}),trevor turner,21957,24
+21697,Psycho,Leighann O'Connell,Tall tale,Booktrope,2011,"frozenset({""leighann o'connell""})",leighann o'connell,21697,19
+22054,The Last of Us,Roland Murray,Suspense/Thriller,Taylor & Francis,1995,frozenset({'roland murray'}),roland murray,22054,22
+21690,PokÃ©mon Alpha Sapphire,"Mercedez Welch, Alphonso Gulgowski",Science fiction,Harlequin Enterprises Ltd,1983,"frozenset({'mercedez welch', 'alphonso gulgowski'})","alphonso gulgowski,mercedez welch",21690,25
+21674,The Sun Also Rises,Karisa Kozey,Classic,Breslov Research Institute,2026,frozenset({'karisa kozey'}),karisa kozey,21674,13
+21352,The Godfather: Part II,Miss Wade Lebsack,Suspense/Thriller,Booktrope,1980,frozenset({'miss wade lebsack'}),miss wade lebsack,21352,19
+21474,Day of the Tentacle,Terrance Schneider,Western,Adis International,1978,frozenset({'terrance schneider'}),terrance schneider,21474,10
+21862,PokÃ©mon Ruby,"Dr. Emmaline Ritchie, Moshe Wilderman, Norberto Kohler",Western,Scholastic Press,1986,"frozenset({'moshe wilderman', 'norberto kohler', 'dr. emmaline ritchie'})","dr. emmaline ritchie,moshe wilderman,norberto kohler",21862,28
+22037,Million Dollar Baby,"Catarina Gleason, Msgr. Mohammed Buckridge, Lilla Gislason DC",Essay,Burns & Oates,2007,"frozenset({'catarina gleason', 'msgr. mohammed buckridge', 'lilla gislason dc'})","catarina gleason,lilla gislason dc,msgr. mohammed buckridge",22037,16
+21388,Day of the Tentacle,Terrance Schneider,Western,Mascot Books,2006,frozenset({'terrance schneider'}),terrance schneider,21388,15
+21464,The Line of Beauty,Phil Hettinger Ret.,Fanfiction,Salt Publishing,1996,frozenset({'phil hettinger ret.'}),phil hettinger ret.,21464,23
+21831,Helldorado,Laronda Kuhn,Narrative nonfiction,Candlewick Press,1978,frozenset({'laronda kuhn'}),laronda kuhn,21831,13
+22033,Heat,"Lela Emard, Keeley Hand, Coy Streich",Tall tale,Parachute Publishing,1994,"frozenset({'keeley hand', 'lela emard', 'coy streich'})","coy streich,keeley hand,lela emard",22033,19
+21814,The Lion King,Myrl Miller,Mystery,Hodder Headline,1984,frozenset({'myrl miller'}),myrl miller,21814,33
+21548,Shadow Tactics: Blade of the Shogun,Casey Bode,Comic/Graphic Novel,Focal Press,1983,frozenset({'casey bode'}),casey bode,21548,16
+21990,Fear and Trembling,Ozzie Jast,Mystery,University of Akron Press,2024,frozenset({'ozzie jast'}),ozzie jast,21990,14
+21842,Dulce et Decorum Est,Maura Kuvalis DC,Horror,Ian Allan Publishing,2000,frozenset({'maura kuvalis dc'}),maura kuvalis dc,21842,9
