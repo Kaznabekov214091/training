@@ -1,0 +1,60 @@
+<form method="POST">
+    <label for="Locale">Locale:</label>
+    <select name="Locale" id="Locale">
+        <option value="de_DE">Germany</option>
+        <option value="en_US">US</option>
+    </select>
+    Seed: <input type="number" name="seed" value="{{ seed }}">
+    <button type="submit">Generate</button>
+    <input type="hidden" name="page" value="{{ page + 1 }}">
+    <button type="submit" name="action" value="next">Next</button>
+</form>
+
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Full Name</th>
+            <th>Gender</th>
+            <th>Email</th>
+            <th>Phone</th>
+            <th>Eye Color</th>
+            <th>Address</th>
+            <th>Region</th>
+            <th>Latitude</th>
+            <th>Longitude</th>
+            <th>Height (cm)</th>
+            <th>Weight (kg)</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for u in users %}
+        <tr>
+            <td>{{ loop.index + (page - 1) * 10 }}</td>
+
+            <td>{{ u.full_name }}</td>
+            <td>{{ u.gender }}</td>
+
+            <td>{{ u.email }}</td>
+            <td>{{ u.phone }}</td>
+
+            <td>{{ u.eye_color }}</td>
+
+            <td>{{ u.address }}</td>
+
+            <td>{{ u.region }}</td>
+
+            <td>{{ u.lat }}</td>
+            <td>{{ u.lon }}</td>
+
+            <td>{{ u.height }}</td>
+            <td>{{ u.weight }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+<h3>User Locations</h3>
+<div style="width:100%; height:500px;">
+    {{ map_html | safe }}
+</div>
